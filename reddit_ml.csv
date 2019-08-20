@@ -1,0 +1,1045 @@
+,title,date,genre,reply,support
+1074,[N] Chat with us on Slack!,4 months ago,Genral,0,169
+938,"[D] A.I. Researchers Are Making More Than $1 Million, Even at a Nonprofit (OpenAI)",1 year ago,Genral,1,184
+934,"[D] What is the rationale behind self-attention equation and how did they came up with the concept query, key and value?",2 months ago,Genral,1,186
+936,Machine Learning Top 10 Articles for the Past Month (v.June 2018),1 year ago,Genral,1,187
+803,"[R] ICLR 2020 will be in Addis Ababa, Ethiopia",8 months ago,,1,199
+775,[D] Debate about science at organizations like Google Brain/FAIR/DeepMind,1 year ago,,1,205
+709,The DeepMind Bubble?,3 years ago,,1,210
+695,[N] Using Machine Learning to predict parking difficulty,2 years ago,,1,217
+680,"[R]In Mammalian brain the entorhinal cortex contains grid cells which encode space information using grid like pattern. When RNN is trained to predict its position from speed and direction, such grid cells-like neurons emerge automatically",1 year ago,,1,218
+652,[P] PyTorch tutorials from MILA,1 year ago,,1,222
+645,[D] very sobering presentation on the current state of AI by Michael Jordan,1 year ago,,1,226
+606,Yahoo Releases the Largest-ever Machine Learning Dataset for Researchers,3 years ago,,1,230
+593,[D] Machine Learning on Time Series Data?,9 months ago,,1,231
+557,[D] How do you manage your machine learning experiments?,1 month ago,,1,239
+462,"[D] Those who work in machine learning, what do you spend your days doing, and typically what % of your time is spent doing each of those things (on average) ?",1 year ago,,1,267
+447,"[P] A visual introduction to machine learning, Part II: Model Tuning and the Bias-Variance Tradeoff",1 year ago,,1,272
+441,I trained a Deep Q Network built in TensorFlow to play Atari Pong. These are the results after 25 hours of training (link to github in video description).,3 years ago,,1,274
+416,[D] Andrew Ng ranks how valuable current ML methods are,1 year ago,,1,289
+405,Neural Ordinary Differential Equations [PDF],7 months ago,,1,291
+399,"A curated list of Machine Learning and Deep Learning tutorials, articles and other resources",3 years ago,,1,295
+311,[D] Why building your own Deep Learning computer is 10x cheaper than AWS,10 months ago,,1,329
+303,[P] OpenAI's GPT-2-based Reddit Bot is Live!,4 months ago,,1,332
+833,[D] Nepotism in ML,1 year ago,,1,371
+1140,[D] Nepotism in ML,1 year ago,,1,371
+213,[N] Andrej Karpathy leaves OpenAI for Tesla ('Director of AI and Autopilot Vision'),2 years ago,,1,397
+187,[N] Numpy dropping Python 2.7,1 year ago,,1,411
+170,[D] MIT Deep Learning GitHub Repo,6 months ago,,1,428
+114,[P] Decomposing latent space to generate custom anime girls,9 days ago,Discussion,1,505
+64,[D] Deep Mind AI Alpha Zero Sacrifices a Pawn and Cripples Stockfish for the Entire Game,1 year ago,Research,1,626
+28,[P] Playing card detection with YOLOv3 trained on generated dataset,1 year ago,Project,1,871
+12,"We are Oriol Vinyals and David Silver from DeepMind’s AlphaStar team, joined by StarCraft II pro players TLO and MaNa! Ask us anything",6 months ago,Discussion,1,1.2k
+1112,[R] The Illustrated BERT and ELMo (How NLP Cracked Transfer Learning),7 months ago,Genral,2,165
+1096,Holodeck - a High Fidelity Simulator for Reinforcement Learning,10 months ago,Genral,2,166
+1087,"[D] Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)",1 year ago,Genral,2,168
+1034,[P] Automatic colorization of anime/manga-style line art through tandem convnets,2 years ago,Genral,2,174
+1015,[P] How to use BERT in Kaggle Competitions - A tutorial on fine-tuning and model adaptations,5 months ago,Genral,2,177
+901,[R] Guide on building your own neural conversational agent,1 year ago,Genral,2,193
+762,[P] counting bees on a rasp pi with a conv net,1 year ago,,2,204
+698,[R] AlphaGo Zero implementation and discussion blog post,1 year ago,,2,208
+602,"[P] Implementations of 7 research papers on Deep Seq2Seq learning using Pytorch (Sketch generation, handwriting synthesis, variational autoencoders, machine translation, etc.)",5 months ago,,2,227
+542,[D] Generative Adversarial Networks - The Story So Far,1 month ago,,2,245
+491,"[P] For NLP beginners, simple PyTorch implementation of Neural Machine Translation(NMT), Sentiment Analysis and Text Classification",5 months ago,,2,260
+478,"[D] Where's that long list of neural networks that worked around the problem it was supposed to solve? For example, one of them found a bug in a simulation and exploited it to minimize the objective function.",20 hours ago,,2,261
+481,[N] BoTorch: Bayesian Optimization in PyTorch,3 months ago,,2,262
+429,[P] TensorKart: self-driving MarioKart with TensorFlow,2 years ago,,2,279
+395,[D] Are we expected to solve hard programming challenges to work in ML/DL industry?,5 months ago,,2,290
+289,"[P] Just put up an open source tool called Parris: a training tool for machine learning algorithms, made because I tire of recreating stacks over and over. Hope it helps!",1 year ago,,2,344
+842,"[P] Self-driving car course with Python, TensorFlow, OpenCV, and Grand Theft Auto 5",2 years ago,,2,368
+1149,"[P] Self-driving car course with Python, TensorFlow, OpenCV, and Grand Theft Auto 5",2 years ago,,2,368
+821,[D] Petition to abandon United States as a venue for computer science conferences.,3 months ago,,2,375
+1128,[D] Petition to abandon United States as a venue for computer science conferences.,3 months ago,,2,375
+223,"[D] Growing collection of Deep Learning, Machine Learning, Reinforcement Learning lectures",6 months ago,,2,385
+39,[Discussion] When ML and Data Science are the death of a good company: A cautionary tale.,3 months ago,News,2,762
+1091,An introduction to Generative Adversarial Networks (with code in TensorFlow),2 years ago,Genral,3,169
+997,[P] A Rosetta Stone for Deep Learning: same 3 problems in 9 different frameworks,1 year ago,Genral,3,181
+799,Machine Learning Meets Economics,3 years ago,,3,194
+875,[D] AI and Deep Learning in 2017 – A Year in Review,1 year ago,Genral,3,195
+753,[D] Google Cloud TPU accelerators now available in beta to train machine learning models,1 year ago,,3,203
+661,[N] TensorflowJS - machine learning in javascript. Tensorflow dev summit 2018,1 year ago,,3,218
+607,"[P] Lit2Vec: Representing books as vectors using Word2Vec algorithm. Can get recommendations for a combo of several books, and get TSNE maps of books and closest similarities. Pics of bookmaps from Reddit's favorite books, and a HUGE bookmap containing top 10k books on GoodReads",10 months ago,,3,227
+510,[N] Google launches an end-to-end AI platform,3 months ago,,3,249
+501,[P] Tensorflow tutorials and best practices.,1 year ago,,3,256
+400,[Project] The TL;DR Challenge,7 months ago,,3,289
+813,[News] Google opens new AI lab and invests $3.4M in Montreal-based AI research,2 years ago,,3,376
+1120,[News] Google opens new AI lab and invests $3.4M in Montreal-based AI research,2 years ago,,3,376
+177,"The Open Source Society has created a solid path for you that want to learn Data Science and Machine Learning, online for free as a github repo.",3 years ago,,3,415
+91,"[P] Google releases dataset of 50M vector drawings, open sources Sketch-RNN implementation.",2 years ago,News,3,540
+1064,[D] An Excessively Deep Dive Into Natural Gradient Optimization,4 months ago,Genral,4,168
+985,[N] Facebook releases code for its fast ConvNet machine translation model,2 years ago,Genral,4,182
+784,[D] Glow: Better Reversible Generative Models,1 year ago,,4,198
+705,[N] TensorFlow 1.0 Release,2 years ago,,4,213
+663,"[P] Machine Learning at Berkeley's Introductory ML Tutorial Series: Perceptrons, Logistic Regression, SVMs",2 years ago,,4,220
+446,[D] So you want to be a Research Scientist (Google Brain),8 months ago,,4,274
+409,Neural Photo Editing with Introspective Adversarial Networks,2 years ago,,4,290
+153,[P] Simple ML explanations by MIT PhD students,3 months ago,,4,440
+105,Neural nets typically contain smaller “subnetworks” that can often learn faster - MIT,2 months ago,Discussion,4,522
+56,[D] Machine Learning Crash Course | Google Developers,1 year ago,Project,4,639
+1113,[D] Machine Learning - WAYR (What Are You Reading) - Week 51,9 months ago,Genral,5,162
+983,[P] A curated collection of interesting machine learning projects,1 year ago,Genral,5,177
+931,[P] An introduction to Markov Decision Process [RL],11 months ago,Genral,5,187
+885,NVIDIA AI Car Demonstration,2 years ago,Genral,5,196
+653,My pre-configured Deep Learning + Python Amazon AWS AMI is publicly available for your use.,1 year ago,,5,219
+561,[P] This AirBnB does not exist,5 months ago,,5,239
+548,[D] How the Transformers broke NLP leaderboards,12 days ago,,5,244
+470,[D] A DARPA Perspective on Artificial Intelligence,2 years ago,,5,266
+442,"[R] Real robot trained via simulation and reinforcement learning is capable of running, getting up and recovering from kicks",6 months ago,,5,273
+448,[R] YOLOv3: An Incremental Improvement,1 year ago,,5,273
+366,[N] TensorFlow 1.0.0-alpha,2 years ago,,5,306
+337,[N] Tensorflow 1.5.0 Released,1 year ago,,5,316
+863,Distributed TensorFlow just open-sourced,3 years ago,,5,356
+1165,Distributed TensorFlow just open-sourced,3 years ago,,5,356
+840,[P] 3D Printed Robot Cat learns to walk with Genetic Algorithm,1 year ago,,5,367
+1147,[P] 3D Printed Robot Cat learns to walk with Genetic Algorithm,1 year ago,,5,367
+826,TensorFlow 1.3 released,1 year ago,,5,371
+1133,TensorFlow 1.3 released,1 year ago,,5,371
+199,[N] MuseNet by OpenAI,3 months ago,,5,401
+179,BERT's success in some benchmarks tests may be simply due to the exploitation of spurious statistical cues in the dataset. Without them it is no better then random.,11 days ago,,5,419
+1061,[D] Avoiding getting your work stolen as an undergrad?,3 months ago,Genral,6,168
+1056,[N] DeepMind Open Source: Datasets,2 years ago,Genral,6,170
+1020,[D] Questions for OpenAI,4 months ago,Genral,6,175
+1029,Understanding LSTM Networks,3 years ago,Genral,6,175
+971,MOpen 1.0 released by AMD (deep learning software for GPUs using OpenCl),2 years ago,Genral,6,182
+967,[R] Neural Networks seem to follow a puzzlingly simple strategy to classify images,5 months ago,Genral,6,184
+937,"[N] State-of-the-art Computer Vision models (detection, segmentation, classification) with MXNet Gluon CV toolkit - x-post r/mxnet",1 year ago,Genral,6,185
+917,"[P] All code from ""Machine Learning with TensorFlow"" is now available on GitHub",2 years ago,Genral,6,191
+884,[Project] Numpy Exercises,2 years ago,Genral,6,198
+752,[R] My DeepMind internship project: Large-Scale GANs (BigGAN),10 months ago,,6,205
+751,Anyone else feeling overwhelmed by the fast pace of the field?,3 years ago,,6,206
+624,[P] From DQN to Rainbow: A step-by-step Colab + Pytorch tutorial,24 days ago,,6,225
+605,[P] Machine Learning at Berkeley's Introductory ML Tutorial Series: Neural Networks and Backprop,2 years ago,,6,229
+461,"[N] DeepMind Solves AGI, Summons Demon",2 years ago,,6,267
+455,[P] Tradeoff solved: Jupyter Notebook OR version control. Jupytext brings you the best of both worlds,3 months ago,,6,269
+433,Friendly challenge for Facebook and Google: Play each other in a game of Go,3 years ago,,6,282
+412,[D] Google Employees Protest Secret Work on Censored Search Engine for China,11 months ago,,6,288
+301,"[P] [OC] We made a music video using neural style transfert, optical flow, and Deep dream. It's been a year since we are working on it. Please, give us some feedback ! [more infos in comments]",1 year ago,,6,331
+848,[N] Andrew Ng is raising a $150M AI Fund,1 year ago,,6,356
+1155,[N] Andrew Ng is raising a $150M AI Fund,1 year ago,,6,356
+171,"[Discussion] Dear Industry Researchers: ""If researchers are not incentivized to do reproducible research (or penalized for not doing so), something is flawed in the industry.""",1 year ago,,6,428
+73,[P] Papers with Code - the latest machine learning research (with code!),1 year ago,Discussion,6,604
+1076,[D] Deep Learning Course | EPFL,1 year ago,Genral,7,167
+1108,"[P] I implemented the ""Learning to Protect Communications with Adversarial Neural Cryptography"" papers in Theano",2 years ago,Genral,7,167
+1075,[P] Fast style transfer for ANY style in the browser with TF.js,8 months ago,Genral,7,169
+1050,[P] Comprehensive Machine Learning Trading Strategies - Google Colab,14 days ago,Genral,7,170
+1037,[N] Introducing Keras 2,2 years ago,Genral,7,174
+923,[P] CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages,1 year ago,Genral,7,189
+904,"Google reports strong profit, says it's 'rethinking everything' around machine learning",3 years ago,Genral,7,191
+882,[N] Deep Learning 101 - Reference Materials,2 years ago,Genral,7,195
+700,[P]I wrote a tutorial about Inverse Reinforcement Learning and three basic algorithms. More to follow.,1 year ago,,7,214
+550,[D] Rules of Machine Learning: | Machine Learning Rules | Google Developers,1 year ago,,7,242
+317,[P] Machine Learning for Humans: A Beginner's Guide to AI/ML,1 year ago,,7,323
+99,"Video-to-Video Synthesis from NVIDIA, with code [R]",11 months ago,Project,7,531
+1106,[R] Machine Learning Top 10 Articles for the Past Month-v.Mar 2018,1 year ago,Genral,8,169
+1086,[P] Chatistics: Python scripts to turn your Messenger and Hangouts chat logs into DataFrames,1 year ago,Genral,8,171
+999,[R] AlphaGo Teach: Discover new and creative ways of playing Go,1 year ago,Genral,8,176
+949,[P] Python script to extract features from images using various pretrained networks.,1 year ago,Genral,8,186
+927,"[N] Several Google engineers have left one of its most secretive AI projects to form a stealth start-up, Groq Inc.",2 years ago,Genral,8,189
+785,Google Brain released two large datasets for robotics research,2 years ago,,8,197
+781,[P] DeepMind Lab now released on Github!,2 years ago,,8,201
+684,[R] The Fourier Transform through the Lens of Gaussian Process Regression,1 year ago,,8,217
+443,[N] DeepMind: First major AI patent filings revealed,1 year ago,,8,276
+342,[N] New $1 million AI fake news detection competition,1 day ago,,8,314
+1110,Nando de Freitas will be doing an AMA in /r/MachineLearning on December 26,3 years ago,Genral,9,167
+975,[D] The Promise of Hierarchical Reinforcement Learning,4 months ago,Genral,9,179
+886,Richard Feynman and The Connection Machine,2 years ago,Genral,9,196
+675,[D] To finish or to “master out”?,2 months ago,,9,217
+604,[R] Google trains network on 300 million (!) images,2 years ago,,9,229
+407,[N] Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow,1 year ago,,9,290
+76,"MIT Study reveals how, when a synapse strengthens, its neighbors weaken",1 year ago,Research,9,591
+804,[R] Neural Color Transfer between Images,1 year ago,Research,9,2.3k
+1116,DeepMind's huge machine reading question/answer dataset is now available for public use,3 years ago,Genral,11,161
+1052,[D] Computational and Mathematical Neuroscience Community,2 months ago,Genral,11,172
+1028,Deep learning tutorials (containing more than 40 presentations),3 years ago,Genral,11,175
+965,Jeff Dean explains TensorFlow [video],3 years ago,Genral,11,186
+746,"[D] Who would you vote for as the best lecturer/professor in ML, stats, and math subjects?",1 year ago,,11,207
+671,[P] Creating and Understanding Neural Networks For Everyone,1 year ago,,11,219
+662,[P] DeepPavlov: Open source library for training dialog systems (chatbots),1 year ago,,11,221
+521,[Project] Tensorflow implementation of Generative Adversarial Networks for Extreme Learned Images Compression,1 year ago,,11,251
+523,[P] A detailed guide to deep learning,2 years ago,,11,251
+476,"[R] A repository of graph classification research papers with implementations (deep learning, graph kernels, fingerprints, factorization)",17 days ago,,11,260
+404,[P] I built Lambda's 4-GPU deep learning rig for $4000 cheaper,3 months ago,,11,292
+349,[D] State of the art: Deep-RL still struggles to solve Mountain Car.,4 months ago,,11,313
+343,[P] The often-overlooked random forest kernel,1 year ago,,11,315
+294,"RUDDER -- Reinforcement Learning algorithm that is ""exponentially faster than TD, MC, and MC Tree Search (MCTS)""",1 year ago,,11,334
+111,[D] Google AI refuses to share dataset fields for a dataset papers (ACL'18) and associated challenge (at CVPR'19),6 months ago,Discussion,11,516
+1118,[R] Decision/classification/regression tree research papers from the last 30 years,2 months ago,Genral,12,165
+1045,[D] Easy intro to deploying ML into production,1 year ago,Genral,12,174
+1008,[P] Compile neural networks into small executables,1 year ago,Genral,12,178
+946,[P] PyTorch-GAN: Collection of Generative Adversarial Networks Implemented in PyTorch,1 year ago,Genral,12,182
+957,"[P] Finding similarities and clustering r/EarthPorn images using BiGAN, implemented in Keras!",6 days ago,Genral,12,183
+959,[R] A Visual Exploration of Gaussian Processes (Distill.pub),4 months ago,Genral,12,184
+760,[p] Short series on Gaussian processes. Simple Python implementation + practical TensorFlow probability example.,6 months ago,,12,205
+717,[P] PyTorch Tutorial Updated (14 examples + TensorBoard),2 years ago,,12,211
+630,"[P] The Annotated Transformer: Line-by-Line PyTorch implementation of ""Attention is All You Need""",1 year ago,,12,221
+570,[P] Machine Learning Glossary,1 year ago,,12,232
+558,[P] Simple Tensorflow collection of easy-to-use codes,5 months ago,,12,243
+410,"""How to train an artificial neural network to play Diablo 2 using visual input?"" A stack overflow question posted in 2011, then updated in 2012, 2015 and again in June 2016 with links to various technological breakthroughs in the field.",3 years ago,,12,287
+325,[P] TF-REX: AI learns to play Google Chrome's Dinosaur Game | No Emulators | All info in blogpost,1 year ago,,12,321
+103,UC Berkeley Open Sources Largest Self-Driving Dataset,1 year ago,Research,12,528
+65,[N] DeepMind and Blizzard open StarCraft II as an AI research environment,1 year ago,Discussion,12,628
+1054,[P] A Practical Guide to Tree Based Learning Algorithms,2 years ago,Genral,13,171
+1048,[P] Videos of Natural Language Processing with Deep Learning CS224N (Winter 2017) are now online,2 years ago,Genral,13,174
+976,[D] How Uber scale their Machine Learning systems with Michelangelo,8 months ago,Genral,13,181
+932,"Deep Learning Summer School, Montreal 2016 - VideoLectures",2 years ago,Genral,13,189
+535,[D] New Deep Learning Techniques (Lectures) - Institute for Pure & Applied Mathematics,1 year ago,,13,249
+500,[N] Hinton says we should scrap back propagation and invent new methods,1 year ago,,13,257
+428,[R] DeepMind's AI Learns Imagination-Based Planning | Two Minute Papers #178,1 year ago,,13,281
+356,[D] Oxford Deep NLP 2017 course,2 years ago,,13,306
+119,[P] Illustrated Artificial Intelligence cheatsheets covering Stanford's CS 221 class,2 months ago,,13,492
+1111,[R] Accelerating Self-Play Learning in Go,5 months ago,Genral,14,161
+1094,[P] Lyft releases self-driving research dataset,8 days ago,Genral,14,168
+948,[D] OpenAI: Learning to communicate,2 years ago,Genral,14,188
+748,"[P] Keeping track of hundreds of models and hyperparameters can get insane pretty quickly, so I built a notebook-like tool for quick, scalable, and parallelized hyperparameter tuning and stacked ensembling",2 years ago,,14,205
+672,[P] Kullback-Leibler Divergence Explained,2 years ago,,14,215
+639,[P] Machine Learning Top 10 Open Source Projects (v.Feb 2018),1 year ago,,14,224
+635,[N]TensorSpace: a neural network 3D visualization framework,8 months ago,,14,226
+591,[D] The Limitations of Deep Learning for Vision and How We Might Fix Them,5 months ago,,14,229
+608,[P] Natural Language Processing Tasks and Selected References,1 year ago,,14,229
+427,"[R] Tencent ML-Images released: 18 million training images with 11,000 categories",8 months ago,,14,284
+320,[P] Simple PyTorch implementation of GANimation (ECCV 2018 Oral),1 year ago,,14,321
+60,[P] Cheat Sheets for deep learning and machine learning,2 years ago,Project,14,629
+954,[Project] Bayesian Wi-Fi,2 years ago,Genral,15,184
+933,"[P] Share your ML models easily, with almost no extra code with Gradio - a tool I built at Stanford to facilitate collaborations.",23 days ago,Genral,15,188
+905,I'm creating an example Python Machine Learning notebook for newcomers to the field. I'd love your feedback or contributions to make it better.,3 years ago,Genral,15,194
+773,[D] Introduction to Bayesian ML,2 years ago,,15,203
+707,OpenAI - Requests for Research,3 years ago,,15,209
+517,16 Free Machine Learning Books,3 years ago,,15,254
+438,"[D] Hey folks of r/MachineLearning, can we please share papers abstracts in the post description when sharing research papers?",7 months ago,,15,273
+424,MIT robot combines vision and touch to learn the game of Jenga,6 months ago,,15,282
+389,"[R] New Data Set: Amazon.com sales rank data for Kindle and print books (61,000 books, 200,000,000 data points)",1 year ago,,15,299
+351,[D] Deep Reinforcement Learning with TensorFlow 2.0,6 months ago,,15,311
+316,[R] Great Deep Learning Achievements Over the Past Year,1 year ago,,15,325
+851,[R] Machine Learning Top 10 Articles (v.Feb 2018),1 year ago,,15,366
+1158,[R] Machine Learning Top 10 Articles (v.Feb 2018),1 year ago,,15,366
+164,[P] Github-course in deep learning for natural language processing,9 months ago,,15,429
+1066,[D] Why is a recruiting post stickied in this subreddit?,1 year ago,Genral,16,167
+1016,[D] Benchmarking Google's TPUv2 against Nvidia's V100 on ResNet-50,1 year ago,Genral,16,176
+1002,[R] Speech synthesis from neural decoding of spoken sentences (Nature),3 months ago,Genral,16,178
+951,[D] On Machine Learning and Programming Languages,1 year ago,Genral,16,184
+792,[P] Detecting the bats outside of my appartment by recognising their sound with Tensorflow,1 year ago,,16,198
+736,[P] Images Super Resolution: Super-scale your images and run experiments very easily with RDNs and GANs.,4 months ago,,16,206
+720,Geoffrey Hinton will be doing an AMA in /r/MachineLearning on November 10 10AM PST,4 years ago,,16,210
+699,"Soccer On Your Tabletop: “transforms a monocular video of a soccer game into a moving 3D reconstruction… rendered interactively with a 3D viewer or through an Augmented Reality device… depth map of each player, using a CNN that is trained on 3D player data extracted from soccer video games""",1 year ago,,16,211
+655,"A nice blog post on trueskill, the bayesian ranking system behind xbox matchmaking.",3 years ago,,16,221
+636,"[N] Nvidia Opens GPUs for AI Work with Containers, Kubernetes",1 year ago,,16,226
+599,Announcing YouTube-8M: A Large and Diverse Labeled Video Dataset for Video Understanding Research,2 years ago,,16,230
+600,[R] NeurIPS 2019: The MineRL Competition for Sample-Efficient Reinforcement Learning,2 months ago,,16,230
+595,[P] Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js,11 months ago,,16,234
+503,16 Free Data Science Books,4 years ago,,16,256
+457,[P] Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2,2 years ago,,16,268
+430,"[R] A repository of community detection (graph clustering) research papers with implementations (deep learning, spectral clustering, edge cuts, factorization)",10 days ago,,16,277
+1088,"[N] TensorFlow Eager Execution: An imperative, define-by-run interface to TensorFlow",1 year ago,Genral,17,166
+1093,The Three Cultures of Machine Learning,3 years ago,Genral,17,168
+1107,[D] Requests for Research 2.0 | OpenAI,1 year ago,Genral,17,169
+1022,"[D] Why you need to improve your training data, and how to do it: how much training set quality matters to model performance, and ways to bootstrap a corpus",1 year ago,Genral,17,171
+973,"[R] LipNet, an end-to-end model with 93.4% accuracy in lip reading (previous state of the art 79.6%) - Univ. Oxford, Google Deepmind",2 years ago,Genral,17,183
+939,[N] Google opens AI Research and Development Centre in Beijing China,1 year ago,Genral,17,185
+899,Dijkstra's in Disguise [R],11 months ago,Genral,17,191
+910,Time-lapse Mining from Internet Photos,4 years ago,Genral,17,192
+559,"[D] We are from TomTom Autonomous Driving, and are making HD maps. Ask us Anything!",1 month ago,,17,242
+556,Deep Learning with Neural Networks and TensorFlow Tutorials,3 years ago,,17,243
+528,[D] Hugo Larochelle (Google Brain) slides on properties of neural networks we currently don't understand,2 years ago,,17,250
+465,[D] Capsule Networks (CapsNets) – Tutorial,1 year ago,,17,263
+823,[N] Stanford's CS230 with lecture videos and more,3 months ago,,17,375
+1130,[N] Stanford's CS230 with lecture videos and more,3 months ago,,17,375
+175,[R] Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning,1 year ago,,17,418
+118,[N] UC Berkeley Open-Sources 100k Driving Video Database,1 year ago,,17,490
+88,Illustrated Machine Learning cheatsheets covering Stanford's CS 229 class,11 months ago,News,17,544
+1077,[R] Self-Normalizing Neural Networks -> improved ELU variant,2 years ago,Genral,18,169
+1049,"Deep Learning Pioneer, Yoshua Bengio will be doing an AMA in /r/MachineLearning on Feb. 24 1PM EST",5 years ago,Genral,18,175
+958,[P] EfficientNet in PyTorch,2 months ago,Genral,18,187
+788,[R] A bags of tricks which may improve deep learning models [Slides],7 months ago,,18,195
+796,[P] Making deep neural networks paint to understand how they work,5 months ago,,18,199
+772,[R] OpenAI Meta-Learning and Self-Play (Ilya Sutskever),1 year ago,,18,202
+732,"Made a self-driving rc car during my free time, referencing Nvidia's recently released end-to-end learning papers.",2 years ago,,18,209
+692,[P] a Genetic Algorithm tutorial with Python,1 year ago,,18,210
+660,[P] Downloading 1000s of images from Google and preparing them for images dataset generation,1 year ago,,18,218
+654,[R] Introducing the AI Open Network: a 100% open-source AI research community.,2 years ago,,18,220
+648,[P] I'm a bot and will serve people analyzing chess positions from images posted on /r/chess,3 months ago,,18,222
+644,[P] The unreasonable usefulness of deep learning in building and cleaning medical images datasets,1 year ago,,18,224
+585,"[D] Chris Lattner: Compilers, Swift, TPU, and ML Accelerators | Artificial Intelligence Podcast",2 months ago,,18,232
+518,"John H. Holland, father of genetic algorithms and pioneer in complex systems, passed away yesterday",3 years ago,,18,254
+365,[P] I taught a one day course on backpropagation & neural networks from scratch - here are my materials,15 days ago,,18,304
+59,xkcd: Linear Regression,2 years ago,Discussion,18,631
+50,[N] Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone,1 year ago,Project,18,688
+1006,[R] New neural-network rain forecasting based on satellite images,9 days ago,Genral,19,177
+979,[D] Google's AutoML: Cutting Through the Hype,1 year ago,Genral,19,180
+926,[R] Learning to Learn without Gradient Descent by Gradient Descent,1 year ago,Genral,19,186
+944,[P] Teaching your browser where you're looking at with TensorFlow.JS (tutorial / project),11 months ago,Genral,19,186
+883,[D] google developing machine learning tools for raspberry pi,2 years ago,Genral,19,195
+787,[P] Search images by describing them,5 months ago,,19,201
+756,[P] Machine Learning at Berkeley's Introductory ML Tutorial Series: The Bias-Variance Dilemma,2 years ago,,19,204
+710,1976 Matrix Singular Value Decomposition Film,3 years ago,,19,212
+686,[P] Intro to Gaussian processes - Part I. For anyone who's after a more visual & intuitive primer on the topic.,1 year ago,,19,215
+560,[R] ICLR 2019 Notes,2 months ago,,19,240
+479,[P] A Visual Intro to NumPy and Data Representation,1 month ago,,19,262
+392,[P] Features of Python 3 for data scientists,1 year ago,,19,296
+323,[R] A Reinforcement Learning primer - Everything You Need to Know to Get Started in RL,1 year ago,,19,322
+291,[D] A Recipe for Training Neural Networks,3 months ago,,19,338
+818,[N] Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset,1 year ago,,19,375
+1125,[N] Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset,1 year ago,,19,375
+817,AlphaGo lost the 4th game: AlphaGo 3-1 Lee Sedol,3 years ago,,19,381
+1124,AlphaGo lost the 4th game: AlphaGo 3-1 Lee Sedol,3 years ago,,19,381
+173,"[P] Implementations of 15 NLP research papers using Keras, Tensorflow, and Scikit Learn.",1 year ago,,19,420
+129,[D] Where does this hyped news come from? *Facebook shut down AI that invented its own language.*,2 years ago,News,19,484
+20,[N] Andrew Ng announces new Deep Learning specialization on Coursera,1 year ago,Discussion,19,1.0k
+1101,"A Neural Network for Machine Translation, at Production Scale",2 years ago,Genral,21,165
+1079,"Keras 1.0 - the major update of Deep Learning library just released. New features include functional API, arbitrary metrics for arbitrary endpoints, etc.",3 years ago,Genral,21,172
+1051,[R] Geoffrey Hinton and Yann LeCun Deliver Turing Lecture,1 month ago,Genral,21,173
+916,[R] Taming Recurrent Neural Networks for Better Summarization,2 years ago,Genral,21,188
+922,"[P] FloWaveNet: A Generative Flow for Raw Audio. PyTorch codes (also w/ ClariNet), sampled audio clips, and arXiv draft available",8 months ago,Genral,21,191
+575,[R] Videos of Deep|Bayes – Summer School on Bayesian Deep Learning,10 months ago,,21,233
+408,[N] Google launches TensorBoard API to enhance machine learning visualizations,1 year ago,,21,289
+864,[P] Monte Carlo Tree Search - beginners guide,1 year ago,,21,359
+1166,[P] Monte Carlo Tree Search - beginners guide,1 year ago,,21,359
+814,[P] A Visual Guide to Evolution Strategies,1 year ago,,21,383
+1121,[P] A Visual Guide to Evolution Strategies,1 year ago,,21,383
+1011,[R] Images Synthesis From Text With Deep Learning | Two Minute Papers,2 years ago,Genral,22,174
+1012,Machine Learning Algorithm Spots Depression in Speech Patterns,3 years ago,Genral,22,177
+974,Analyzing 50k fonts using deep neural networks,3 years ago,Genral,22,178
+940,[News] Self Driving Car Learns Online and On-board on Raspberry Pi 3,2 years ago,Genral,22,183
+908,"[R] Math Insights from 10 GAN papers. InfoGANs, VAEGANs, CycleGAN and more",1 year ago,Genral,22,189
+879,[D] Google Colab gives you a free K80 GPU for up to 12hrs at a time.,1 year ago,Genral,22,193
+878,[D] Does anyone know if Stanford is going to release this year's CS224n Natural Language Processing with Deep Learning course videos online like this did with last years?,1 year ago,Genral,22,196
+766,[P] Mushroom: Reinforcement Learning library,5 months ago,,22,201
+471,"Renowned Hungarian Scientist, Inventor Of The ""Kálmán filter"" Rudolf Kálmán Dies Aged 86",3 years ago,,22,264
+432,The OpenAI Research Team will be doing an AMA in /r/MachineLearning on January 9,3 years ago,,22,279
+383,[R] We Have Just Released the Largest First Person Video Dataset: EPIC-Kitchens.,1 year ago,,22,298
+375,[D] I made a list of shortcuts for learning Tensorflow. Any others I should add?,12 months ago,,22,300
+379,[Project] Using Neural Networks (CycleGAN) to Generate Pokemon as Different Elemental Types,1 month ago,,22,302
+368,"[P] A library of pretrained models for NLP: Bert, GPT, GPT-2, Transformer-XL, XLNet, XLM",15 days ago,,22,305
+824,A Visual Introduction to Machine Learning,4 years ago,,22,374
+1131,A Visual Introduction to Machine Learning,4 years ago,,22,374
+72,[D] Lessons from My First Two Years of AI Research,1 year ago,Project,22,602
+1092,"New draft of ""Reinforcement Learning: An Introduction, Second Edition""",2 years ago,Genral,23,171
+1023,[D] OpenAI Gym Retro,1 year ago,Genral,23,175
+952,[P] Using Deep Learning for Single Images Super Resolution (with a live demo),1 year ago,Genral,23,184
+969,AMA: We are Noam Brown and Professor Tuomas Sandholm from Carnegie Mellon University. We built the Libratus poker AI that beat top humans earlier this year. Ask us anything!,1 year ago,Genral,23,185
+914,[Project] Working with StarCraft II AIs on Google's free Google Colab Environment,1 year ago,Genral,23,191
+915,[R] High-Resolution Images Synthesis and Semantic Manipulation with Conditional GANs,1 year ago,Genral,23,192
+789,[D] Hybrid RNN model wins m4 forecasting competition,1 year ago,,23,200
+565,A Beginner's Guide To Understanding Convolutional Neural Networks,3 years ago,,23,239
+552,[N] Keras Tuner (official hyper-parameter tuning library ),1 month ago,,23,240
+445,TensorFlow Examples,3 years ago,,23,278
+417,Excellent Youtube playlist explaining Machine Learning concepts,3 years ago,,23,285
+377,Google's DeepMind AI Reduces Data Center Cooling Bill By 40%,3 years ago,,23,300
+373,[P] Curated List of Python Resources,3 months ago,,23,306
+363,"[P] Python users: I find visualization of results tedious and repetitive, so I built a small library to make it easier.",2 years ago,,23,307
+1032,"[D] Conversation with Juergen Schmidhuber on Godel Machines, Meta-Learning, and LSTMs",7 months ago,Genral,24,174
+1021,[D] What are the best newsletters about machine learning?,1 year ago,Genral,24,175
+1040,"[FUNNY] David J Bland on Twitter: ""I've analyzed the Silicon Valley Bot Startup trend and created a handy venn diagram to help explain it.""",3 years ago,Genral,24,175
+1001,Information Theory for Machine Learning (for beginners) [includes EM Algorithm],3 years ago,Genral,24,176
+994,[D] An Overview of Methods in Semantic Segmentation,4 months ago,Genral,24,177
+963,[P] CS230 projects (Spring 2018),1 year ago,Genral,24,183
+892,[D] Attention in Neural Networks and How to Use It,1 year ago,Genral,24,193
+918,keras-rl: A library for state-of-the-art deep reinforcement learning,3 years ago,Genral,24,193
+739,[D] Results from Best of Machine Learning 2017 Survey,1 year ago,,24,204
+704,[R] Information Theory of Deep Learning (talk at TU Berlin DL Workshop by Naftali Tishby),1 year ago,,24,214
+649,[D] Depth First Learning Fellowship: $4000 grants to build ML curricula,7 months ago,,24,222
+633,[P] FB released pre-trained model on Instagram on PyTorch Hub. Gets SOTA on top-1 ImagesNet after fine-tuning.,1 month ago,,24,225
+616,"Reverse OCR, a bot which generates squiggles until an OCR word recognition recognises a word.",3 years ago,,24,227
+611,"Nice visualization of stochastic optimizers by Alec Radford: (SGD, momentum, Nesterov, AdaGrad, AdaDelta, RMSProp)",4 years ago,,24,231
+564,[N] Introducing: Unity Machine Learning Agents <-- interface to hook up ML Agents to Unity Game Engine,1 year ago,,24,241
+436,[R] Facebook has released code and pretrained models for Cross-lingual Language Model Pretraining,5 months ago,,24,278
+355,[N] CS231n videos are finally uploaded!,1 year ago,,24,312
+321,[N] 101 NumPy Exercises for Data Analysis,1 year ago,,24,329
+186,[D] Things I wish we had known before we started our first Machine Learning project - Sharing my experiences of successful real world application,1 year ago,,24,413
+1114,"[P] Video about Computer Vision, Machine Learning, and Getting a Job",2 years ago,Genral,25,166
+1072,"[D] Kaiming He's original residual network results in 2015 have not been reproduced, not even by Kaiming He himself.",3 months ago,Genral,25,169
+1058,[P] Exploring LSTMs,2 years ago,Genral,25,174
+887,[P] PyTorch Implementation: Exploring Randomly Wired Neural Networks for Images Recognition,3 months ago,Genral,25,191
+793,[P] My nephew vs ML,2 years ago,,25,196
+767,[Project] nlp-tutoral repository who is studying NLP(Natural Language Processing) using TensorFlow and Pytorch,6 months ago,,25,202
+619,Dataset: Every reddit comment. A terabyte of text.,4 years ago,,25,225
+590,"[R] Latest from Samsung AI lab: Animate heads using only a few shots of the target person (or even 1 shot). Keypoints, adaptive instance norms and GANs, no 3D face modelling at all.",2 months ago,,25,230
+588,AlphaGo AMA: DeepMind’s David Silver and Julian Schrittwieser on October 19,1 year ago,,25,233
+421,"[P] TensorFlow: A proposal of good practices for files, folders and models architecture",2 years ago,,25,283
+411,"[D] Duolingo's ""half-life regression"" method for modeling human memory",2 years ago,,25,292
+362,[P] Reaver: StarCraft II Deep Reinforcement Learning Agent,8 months ago,,25,305
+330,[P] 37 Reasons why your NN is not working,2 years ago,,25,323
+146,[P] Google's new A.I. experiments website,2 years ago,,25,450
+1046,"[P] Generating cats with deep learning. Comparing DCGAN, WGAN, WGAN-GP, LSGAN and ReLU with batch norm vs SELU.",2 years ago,Genral,26,169
+1053,[P] New Robotics environments in OpenAI Gym,1 year ago,Genral,26,174
+1069,One Year as a Data Scientist at Stack Overflow,3 years ago,Genral,26,174
+876,[P] Fun Project: MSpaint to Terrain Map with GAN,1 year ago,Genral,26,193
+780,[R] NIPS 2017 Notes - David Abel (Brown University),1 year ago,,26,199
+765,[D] Most Aesthetically Pleasing ML Research Papers,2 months ago,,26,204
+623,[D] /r/MachineLearning should do an unconference,2 years ago,,26,226
+615,[N] A user friendly editor based on Tensorflow: AI Blocks,1 year ago,,26,227
+537,[D] Hope this becomes a norm for the field,2 years ago,,26,245
+553,[P] Leela Chess Zero - an open-source distributed project inspired by Deepmind’s AlphaZero,6 months ago,,26,245
+426,[D] OpenAI open sources a high-performance Python library for robotic simulation,2 years ago,,26,282
+397,TensorFlow Introductory Lecture,3 years ago,,26,296
+353,[P] Academic Torrents: A distributed system for sharing enormous datasets,11 months ago,,26,307
+310,[D] Jupyter notebook with PyTorch implementation of Neural Ordinary Differential Equations + some experiments,4 months ago,,26,326
+829,"[D] Andrew Ng's ""Structuring a ML Project"" summary in a diagram",1 year ago,,26,371
+1136,"[D] Andrew Ng's ""Structuring a ML Project"" summary in a diagram",1 year ago,,26,371
+819,"[D] A Short Introduction to Entropy, Cross-Entropy and KL-Divergence",1 year ago,,26,375
+1126,"[D] A Short Introduction to Entropy, Cross-Entropy and KL-Divergence",1 year ago,,26,375
+206,[P]s The 2018 Stanford CS224n NLP course projects are now online. A lot of them are pretty impressive.,1 year ago,,26,397
+125,Adversarial images for deep learning,3 years ago,Project,26,481
+1038,[N] Announcing TensorFlow Fold: Deep Learning With Dynamic Computation Graphs,2 years ago,Genral,27,175
+1004,[P] Pretrained.ml - Deep learning models with demos,1 year ago,Genral,27,176
+998,"[D] Uh oh. Stanford took down their old CS224n schedule and replaced it with a new one for the current semester, which only has 2 weeks worth of stuff on it. Anyone know if there's an archive?",1 year ago,Genral,27,177
+896,[P] Collection of Computer Vision Datasets,2 months ago,Genral,27,194
+869,Yann Lecun is stepping down as Director of Facebook AI Research (will become Chief AI Scientist),1 year ago,Genral,27,196
+733,Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work,3 years ago,,27,203
+718,Artistic style transfer for videos,3 years ago,,27,210
+715,"[D] Made a tiny map of books, that are often bought together with “Hands-On ML”. What do you think?",11 months ago,,27,213
+679,AutoGraph converts Python into TensorFlow graphs,1 year ago,,27,215
+694,I made this site called Short Science to make research more accessible! Researchers can publish and read papers summaries that are voted on and ranked! The goal is making research more accessible by cutting through the jargon and added complication in many papers so you can understand the point! [OC],3 years ago,,27,216
+612,[N] Google reduces prices for it's Preemptible GPUs (~40%),1 year ago,,27,226
+613,[D] Well-written papers examples,1 year ago,,27,228
+589,Deep learning notes for beginners by a beginner.,3 years ago,,27,232
+460,[P] The Hundred-Page Machine Learning Book manuscript is complete,7 months ago,,27,267
+425,"[P] Leela Chess Zero: The fork of Leela Zero for chess, an open-source distributed effort to reproduce Deepmind's AlphaZero.",1 year ago,,27,281
+413,[N] Next AlphaGo Match announced,2 years ago,,27,288
+385,[N] Facebook Research open sources DensePose,1 year ago,,27,301
+280,[D] Amazon to release largest social conversation and knowledge dataset,4 months ago,,27,346
+1172,[D] Amazon to release largest social conversation and knowledge dataset,4 months ago,,27,348
+126,[P] Simple GAN using numpy,1 year ago,News,27,486
+69,[P] Illustrated Deep Learning cheatsheets covering Stanford's CS 230 class,8 months ago,Research,27,606
+1078,Matrix Calculus Explained,3 years ago,Genral,28,166
+960,[N] Nvidia has created the first real-time game demo using AI-generated graphics,7 months ago,Genral,28,179
+947,"[D] ""OpenAI used the DOTA bot API...Musk stepped in and made unjustified hyperbolic claims""",1 year ago,Genral,28,187
+902,[R] Natural Language Processing in Artificial Intelligence,2 years ago,Genral,28,189
+903,[P] Colorizing Pokemon Blue Version using Convolutional Neural Networks,2 years ago,Genral,28,191
+771,[R] Photographic Images Generation with Semi-parametric Images Synthesis,1 year ago,,28,200
+656,Guide to setting up your machine for deep learning from scratch (Ubuntu),3 years ago,,28,219
+587,[D] Deep Learning Book companion videos,1 year ago,,28,228
+549,[N] Nvidia releases libraries for fast images augmentation,1 year ago,,28,244
+539,[R] Learning to write programs that generate images | DeepMind,1 year ago,,28,245
+520,[N] The Defense Department has produced the first tools for catching deepfakes,11 months ago,,28,250
+493,[P] MangaCraft: Super High Quality Semi-Automatic Manga Colorization (style2paints team 2018 present),10 months ago,,28,256
+468,[N] TensorFlow 1.6 Released,1 year ago,,28,267
+347,"[N] Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language",1 year ago,,28,311
+331,Images Completion with Deep Learning in TensorFlow [OC],2 years ago,,28,319
+309,"[P] Job board exclusively for Remote Jobs in Machine Learning, Deep Learning and Data Science",1 year ago,,28,337
+205,[P] How to Implement a YOLO (v3) Object Detector From Scratch In PyTorch,1 year ago,,28,398
+193,[D] I found a Stanford Guest Lecture where GM Cruise explains their self driving tech stack and showcases the various model architectures they use on their autonomous cars.,11 months ago,,28,407
+143,[D] Sharing my personal resource list for deep learning comprehension,5 months ago,,28,447
+92,"Neural algorithm that ""paints"" photos based on the style of a given painting [ x-post /r/pics ]",3 years ago,Project,28,540
+78,[R] Example-Based Synthesis of Stylized Facial Animations,2 years ago,Discussion,28,589
+1082,"[P] Implementing Randomly Wired Neural Networks for Images Recognition, Experiments were performed on CIFAR-10 datasets and CIFAR-100 datasets.",3 months ago,Genral,29,166
+1047,[D] Machine learning startups - Path from research to startup to acquisition,2 years ago,Genral,29,168
+1067,"[D] Eat Your VGGtables, or, Why Does Neural Style Transfer Work Best With Old VGG CNNs' Features?",1 year ago,Genral,29,169
+1014,"[P] I scraped 32,000 cars, including the price and 115 specifications",4 months ago,Genral,29,177
+928,[D] New podcast on ML basics,2 years ago,Genral,29,190
+868,"[D] Reinforcement Learning never worked, and ‘deep’ only helped a bit.",1 year ago,Genral,29,199
+750,[Project] Clickbait detection using Deep Learning (Github),2 years ago,,29,205
+734,How I Learned To Code Neural Networks,3 years ago,,29,210
+669,neural-doodle: Turn your two-bit doodles into fine artworks with deep neural networks. An implementation of Semantic Style Transfer.,3 years ago,,29,218
+473,[R] Detailed ICML 2019 Notes from David Abel,1 month ago,,29,261
+415,"[P] Automatically ""block"" people in images (like Black Mirror) using a pretrained neural network.",1 year ago,,29,287
+387,How a Japanese cucumber farmer is using deep learning and TensorFlow,2 years ago,,29,301
+367,"[Project] I made ModelZoo.co, a website for finding pretrained deep learning models",1 year ago,,29,303
+324,"Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88",3 years ago,,29,327
+295,[P] Lessons learned reproducing a deep reinforcement learning papers,1 year ago,,29,338
+980,[R] Why do deep convolutional networks generalize so poorly to small images transformations?,1 year ago,Genral,31,181
+888,[P] neuroptica - a nanophotonic neural network simulation platform,4 months ago,Genral,31,197
+768,[R] Bayesian Optimization in AlphaGo (to improve its win-rate from 50% to 66.5% in self-play games),7 months ago,,31,198
+755,[P] Python/R code to predict reactions to text using a pretrained RNN on hundreds of thousands of Facebook Posts,1 year ago,,31,206
+691,[N] Fast.ai Launching Cutting Edge Deep Learning for Coders: 2018 edition,1 year ago,,31,212
+667,[D] DeepMimic's Video,1 year ago,,31,216
+659,[D] Why every data scientist shall read The Book Of Why,4 months ago,,31,217
+688,[P] Make your own AI-generated Magic: The Gathering cards with GPT-2,23 days ago,,31,217
+676,"[D] Nature: ""First analysis of ‘pre-registered’ studies shows sharp rise in null findings""",9 months ago,,31,219
+641,Free machine learning app identifies almost any object and colors without using the internet.,3 years ago,,31,227
+533,"[R] Reinforcement Learning: Hidden Theory and New Super-Fast Algorithms (Simons Institute talk, Sean Meyn)",1 year ago,,31,247
+522,"[N] OpenAI Releases ""Reptile"", A Scalable Meta-Learning Algorithm - Includes an Interactive Tool to Test it On-site",1 year ago,,31,248
+495,[News] GTA V integration into Universe is now open-source,2 years ago,,31,259
+374,"[D] Updates on Perturbative Neural Networks (PNN), CVPR ‘18 Reproducibility",8 months ago,,31,302
+183,[P] Deep Reinforcement Learning Free Course,1 year ago,,31,422
+135,"[P] Baidu releases Apollo Scape, possibly the world’s largest dataset for autonomous driving",1 year ago,Discussion,31,467
+132,Tensorflow Playground,3 years ago,Research,31,475
+29,[Research] A framework to enable machine learning directly on hardware (Disney),1 year ago,Research,31,873
+1042,Flappy Bird Bot - Q-Learning AI,3 years ago,Genral,32,172
+1035,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,3 years ago,Genral,32,176
+966,[R] A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains,4 days ago,Genral,32,181
+898,[P] Google AI open-sources a TensorFlow framework for fast and flexible AutoML with learning guarantees,9 months ago,Genral,32,188
+924,[P] How We Built an AI to Play SNES Street Fighter II Turbo,1 year ago,Genral,32,189
+870,[P] Real-time ASCII Art rendering using decision tree,1 year ago,Genral,32,195
+798,[N] GCP lowers GPU pricing by up to 36%: K80 at 40c/hr and P100 at $1.46/hr,1 year ago,,32,197
+797,[R] Full-body high-resolution Anime Generation with Progressive Structure-conditional GANs,1 year ago,,32,199
+759,[P] Open source machine learning platform for developers,5 months ago,,32,201
+721,[D] What happened here (ICLR 2019 Review)?,6 months ago,,32,207
+729,[R]Backpropamine - training self-modifying neural networks with differentiable neuromodulated plasticity,10 months ago,,32,207
+726,[R] Apple's FIRST papers: Learning from Simulated and Unsupervised Images through Adversarial Training,2 years ago,,32,208
+711,What a Deep Neural Network thinks about your #selfie,3 years ago,,32,210
+490,[P] CppRl: A C++ reinforcement learning library using the new PyTorch C++ frontend,3 months ago,,32,255
+381,[P] Generating Pusheen with GANs,1 year ago,,32,298
+369,[D] Jeff Dean: Machine Learning for Systems,1 year ago,,32,305
+334,[P] PyTorch under the hood,5 months ago,,32,317
+302,The Google Brain team will be back for its second AMA on September 13,1 year ago,,32,336
+150,"""Humans can decipher adversarial images"": A study of ""machine theory of mind"" shows that ordinary people can predict how machines will misclassify",4 months ago,,32,449
+145,[P] Serpent.AI - Game Agent Framework. Turn ANY video game in a sandbox environment for AI & Bot programming. (Beta Release),1 year ago,,32,450
+49,[D] Cheat Sheet collection for Machine Learning,1 year ago,Project,32,689
+1059,"[P] Recognizing Traffic Lights With Deep Learning (and winning $5,000)",2 years ago,Genral,33,170
+1024,[R] Using Machine Learning to Discover Neural Network Optimizers,1 year ago,Genral,33,172
+1005,"Hey Reddit, I made a 4(+2) part tutorial on how to implement a Neural Network in Python. Let me know what you think.",4 years ago,Genral,33,176
+911,[P] New in DeOldify: Smooth Colorization of Video! Courtesy of one weird trick- NoGAN,2 months ago,Genral,33,188
+920,[P] DeepMind: Using AI to give doctors a 48-hour head start on life-threatening illness,15 hours ago,Genral,33,189
+592,[D] Best AI news in October?,8 months ago,,33,233
+536,[R] Implementation of Neural Ordinary Differential Equations [slides + notebooks + code],4 months ago,,33,244
+341,Andrew Ng will be doing an AMA in /r/MachineLearning on April 14 9AM PST,4 years ago,,33,319
+318,[P] A collection of minimal and clean implementations of machine learning algorithms,2 years ago,,33,324
+169,Tuesday = (Monday + Wednesday) / 2,3 years ago,,33,429
+107,All of Andrew Ng's machine learning class in Python,2 years ago,Discussion,33,521
+1119,[R] Facebook AI releases Nevergrad: An open source tool for derivative-free optimization,7 months ago,Genral,34,162
+1030,"""Super Mario Kart"" played by genetically evolved Neural Networks: SethBling's ""Super MarI/O Kart""",4 years ago,Genral,34,175
+891,[N] TensorFlow 1.5.0 Release Candidate,1 year ago,Genral,34,194
+791,"[R] GANs are Broken in More Than One Way: review of ""The Numerics of GANs""",1 year ago,,34,195
+740,[P] How to train a Deep Neural Network using only TensorFlow C++,1 year ago,,34,209
+673,[D] Keras will be added to core TensorFlow at Google,2 years ago,,34,217
+620,[1902.06720] Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent,5 months ago,,34,227
+609,"[N] AIGrant: Get $5,000 for your open source AI project",2 years ago,,34,231
+547,"I am Jürgen Schmidhuber, AMA!",4 years ago,,34,242
+484,720p 25fps neural style video Test,2 years ago,,34,265
+435,[P] Dance generator AI using LSTM and MDN (keras),11 months ago,,34,275
+835,Prof. Geoffrey Hinton Awarded IEEE Medal For His Work In Artificial Intelligence,3 years ago,,34,363
+1142,Prof. Geoffrey Hinton Awarded IEEE Medal For His Work In Artificial Intelligence,3 years ago,,34,363
+849,[N] Research published in Nature describes an artificial neural network made out of DNA that can solve a classic machine learning problem: correctly identifying handwritten numbers. The work is a step towards programming AI into synthetic biomolecular circuits,1 year ago,,34,364
+1156,[N] Research published in Nature describes an artificial neural network made out of DNA that can solve a classic machine learning problem: correctly identifying handwritten numbers. The work is a step towards programming AI into synthetic biomolecular circuits,1 year ago,,34,364
+815,100 Machine Learning videos you can't find in Google,3 years ago,,34,381
+1122,100 Machine Learning videos you can't find in Google,3 years ago,,34,381
+167,[P] The Matrix Calculus You Need For Deep Learning,1 year ago,,34,429
+1097,[N] Learning Dexterity,1 year ago,Genral,35,164
+995,[R] [1903.00374] Model-Based Reinforcement Learning for Atari: Achieving human-level performance on many Atari games after two hours of real-time play,5 months ago,Genral,35,176
+716,[P] RL Elevator Challenge,1 year ago,,35,212
+618,Neural Network for Machine Learning by Geoffrey Hinton has started. We've also got a sub for it (r/nn4ml).,2 years ago,,35,225
+622,"[R](NIPS 2018) Yoav Goldberg: yup. It's ""peer review"", not ""person who did 5 TensorFlow tutorials review""",1 year ago,,35,227
+567,[R] Mathematics of Deep Learning,1 year ago,,35,238
+197,[P] In this project I tried to train Chrome's Trex character to learn to play by looking my gameplay (Supervised).,2 years ago,,35,406
+1084,[D] What happened to posting papers?,9 months ago,Genral,36,166
+986,[D] Machine Learning - WAYR (What Are You Reading) - Week 57,5 months ago,Genral,36,180
+987,[P] A fast Python implementation of tSNE,10 months ago,Genral,36,181
+982,[D] Optimization Algorithms: Math and Code,1 year ago,Genral,36,182
+874,[P] Live Object Detection on Raspberry Pi CPU with decent performance,1 year ago,Genral,36,193
+812,,1 year ago,Genral,36,197
+713,[R] SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color,5 months ago,,36,209
+730,[P] Abstract Art with Machine Learning. Today I'm launching my ML blog and wrote my first post on CPPNs; included a JS-based pattern generator (using TensorFlowJS) so you can try making art yourself. ;-) what do you think?,1 year ago,,36,209
+568,[P] TensorFlow DICOM Medical Imaging Decoder Operation,16 days ago,,36,235
+398,"Microsoft just released a set of ML&AI services with free plans, including CV, Speech, NLP, and more.",3 years ago,,36,294
+326,[D] How I Fail - Ian Goodfellow,1 year ago,,36,322
+333,"[D] Google Translate ""happy to see hong kong become China""",1 month ago,,36,324
+212,[D] MIT Deep Learning Basics: Introduction and Overview,6 months ago,,36,395
+148,DeepMind's new neural network model beats AlexNet with 13 images per class,2 months ago,,36,445
+122,[N] New massive medical images dataset coming from Stanford (info via GTC17),2 years ago,Project,36,491
+1115,Evolving Wind Turbine Blades,3 years ago,Genral,37,164
+1044,[R] An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution,1 year ago,Genral,37,169
+996,[P] Spinning Up in Deep RL (OpenAI),8 months ago,Genral,37,179
+972,[R] Deep Forest: Towards An Alternative to Deep Neural Networks,2 years ago,Genral,37,180
+925,"[P] AiFiddle: a Web GUI to Build, Visualise and Share Deep Learning Models",6 months ago,Genral,37,187
+795,[D] Video Dialogue Replacement: World leaders singing 'Imagine',3 months ago,,37,199
+632,"Interactive tutorial: generative adversarial networks for beginners, with TensorFlow [P]",2 years ago,,37,225
+582,[R] Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer (UberAI),1 year ago,,37,231
+554,[D] What deep learning papers should I implement to learn?,1 year ago,,37,238
+555,[R] Yes you should understand backprop,2 years ago,,37,241
+423,[P] pyts: A Python package for time series transformation and classification,3 months ago,,37,282
+401,[N] Apple to Start Publishing AI Research,2 years ago,,37,290
+339,[D] The Real Scandal of AI: Awful Stock Photos,1 year ago,,37,316
+329,[R] Capture the Flag: the emergence of complex cooperative agents | DeepMind,1 year ago,,37,325
+298,[P] Created a plotting function using matplotlib that will plot a neural network of any dimensions when given the node values and weight matrices,1 year ago,,37,338
+1175,Data Science at the Command Line. Free Ebook,1 year ago,,37,345
+283,Data Science at the Command Line. Free Ebook,1 year ago,,37,349
+845,Andrew Ng is offering a free draft copy of his new book (until Friday Jun 24th),3 years ago,,37,370
+1152,Andrew Ng is offering a free draft copy of his new book (until Friday Jun 24th),3 years ago,,37,370
+204,[P] Globally and Locally Consistent Images Completion,1 year ago,,37,397
+31,[D] Twitter thread on Andrew Ng's transparent exploitation of young engineers in startup bubble,1 year ago,Project,37,852
+1039,[Project] How to Use t-SNE Effectively,2 years ago,Genral,38,176
+1031,Machine Learning Books,6 years ago,Genral,38,178
+801,[D] Does learning control theory helps to understand machine learning?,5 months ago,,38,198
+723,[D] Why `tf.data` is so much better than `feed_dict` and how to build a simple data pipeline in 5 minutes.,8 months ago,,38,209
+657,Calculus & Backprop: from Beginner to Expert,3 years ago,,38,221
+629,[D] Neural Networks as Ordinary Differential Equations,7 months ago,,38,222
+525,[P] Want to train your own BigGAN on just 4-8 GPUs? Today we're releasing BigGAN-PyTorch,4 months ago,,38,246
+340,[P] Simple Tensorflow implementation of Multimodal Unsupervised Images-to-Images Translation (MUNIT),1 year ago,,38,318
+297,[P] How to create a machine learning framework from scratch in 491 steps: An in-depth post mortem of our high school thesis,1 year ago,,38,336
+287,"[D] Should we introduce an ""Inaccurate""/""Misleading"" tag for posts?",1 year ago,,38,344
+142,[N] MIT has developed a new drag and drop data exploration + machine learning tool called NorthStar,1 month ago,,38,459
+1109,I made an app for the blind with an mxnet CNN that speaks what their phone sees in realtime!,3 years ago,Genral,39,163
+1068,"[P] Deepo: a Docker images containing most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.",1 year ago,Genral,39,171
+1013,"[N] Animal-AI Olympics Is All Set To Start In June 2019, Get Ready To Experience Wonder",3 months ago,Genral,39,173
+1010,"[D] Alchemy, Rigour and Engineering",1 year ago,Genral,39,178
+919,"Microsoft releases CNTK, its open source deep learning toolkit, on GitHub",3 years ago,Genral,39,192
+906,"[P] Thinking of building something like Spotify/a social media site for reading papers--""your friends are reading this, maybe you'd like this papers too"". Any suggestions or thoughts?",3 months ago,Genral,39,193
+769,[D] Having a more discussion focused MachineLearning subreddit,11 months ago,,39,202
+444,"[P] Creating an extremely tiny, 17 kB style transfer model with just 11,868 weights.",8 months ago,,39,272
+382,[R] Two-Stream Convolutional Networks for Dynamic Texture Synthesis,1 year ago,,39,303
+1098,[P] Evolving Floorplans,1 year ago,Genral,41,168
+970,[R] [1709.02755] Training RNNs as Fast as CNNs,1 year ago,Genral,41,180
+735,[P] A little gadget that plays rock-papers-scissors slightly better than random using a small quantized RNN running on an 8-bit microcontroller,25 days ago,,41,205
+696,Automatically colorize black and white photos with a deep convolutional neural net. An implementation of Colorful Images Colorization,3 years ago,,41,211
+687,Automating Tinder with Eigenfaces,4 years ago,,41,214
+666,[D] The road to 1.0: production ready PyTorch,1 year ago,,41,222
+576,[P] Indexing Faces on Instagram - Searching Facial Features on Instagram,2 years ago,,41,231
+509,[D] OpenAI 5 vs DOTA 2 World Champions happening now!,3 months ago,,41,251
+414,[P] Implementations of basic RL algorithms with minimal codes!,2 months ago,,41,289
+380,[P] How to train your own Object Detector with TensorFlow’s Object Detector API,2 years ago,,41,303
+312,"[N] ""Facebook Open Sources ELF OpenGo"": AlphaZero reimplementation - 14-0 vs 4 top-30 Korean pros, 200-0 vs LeelaZero; 3 weeks x 2k GPUs; pre-trained models & Python source",1 year ago,,41,329
+282,[R] AI Taught to Synthesize Materials,1 year ago,,41,338
+1174,[R] AI Taught to Synthesize Materials,1 year ago,,41,342
+830,Machine Learning in a Year - From total noob to using it at work,2 years ago,,41,374
+1137,Machine Learning in a Year - From total noob to using it at work,2 years ago,,41,374
+218,[P] Images completion using incomplete data,1 year ago,,41,390
+211,"The journal Distill launches today. In a nutshell, Distill is an interactive, visual journal for machine learning research.",2 years ago,,41,396
+156,"[N] gradient decent , how neural networks learn , part 2",1 year ago,,41,435
+163,[Project] Using ML to create a cat door that automatically locks when a cat has prey in its mouth,1 month ago,,41,439
+108,Google Research announces the Open Images dataset comprising ~9 million labeled images in 6000 categories,2 years ago,Project,41,523
+79,"Free online Linear Algebra book from Stanford: Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares",5 months ago,Discussion,41,577
+53,[P] Basic machine learning algorithms in plain Python,1 year ago,News,41,655
+1070,Enhancing grainy images of celebrities using generative adversarial networks,3 years ago,Genral,42,168
+1027,[D] Why I’m Remaking OpenAI Universe,2 years ago,Genral,42,174
+596,[N] Tensorflow 1.8 has been released,1 year ago,,42,229
+544,[P] TensorFlow 2.0 Implementation of Yolo V3 Object Detection Network,3 months ago,,42,241
+437,[N] SpaCy 2.0 released (Natural Language Processing with Python),1 year ago,,42,276
+315,"[N] PyTorch 1.1.0 Released · TensorBoard Support, Attributes, Dicts, Lists and User-defined types in JIT / TorchScript, Improved Distributed",3 months ago,,42,329
+1100,[D] Deep Reinforcement Learning Doesn't Work Yet,1 year ago,Genral,43,165
+1065,"[P] GANfield: Something, Something GAT Pun",7 months ago,Genral,43,170
+978,[P] Now anyone can train Imagesnet in 18 minutes,11 months ago,Genral,43,181
+956,Google releases Cloud Vision API,3 years ago,Genral,43,182
+697,[N] TensorFlow 2.0 Changes,10 months ago,,43,215
+668,[R] Deep Photo Style Transfer (code and data for papers arXiv:1703.07511),2 years ago,,43,217
+693,[D] When not to use deep learning,2 years ago,,43,217
+488,[N] Microsoft creates an AI research lab to challenge Google and DeepMind,2 years ago,,43,257
+480,[P] Using deepfake to bring Salvador Dali back to life,2 months ago,,43,264
+451,[R] Tensorflow 1.4 released!,1 year ago,,43,277
+364,Deep learning free course on Udacity - Built by Google,3 years ago,,43,305
+352,"[D] What's the difference between data science, machine learning, and artificial intelligence?",1 year ago,,43,316
+332,Many programming courses are about to be gone. ‪Coursera‬ is removing 472 free ‪online‬ courses‬ from the internet on June 30th. This guide will show you how to hurry up and ‪legally‬ download as many courses as possible before June 30th. [xpost /r/learnprogramming],3 years ago,,43,320
+299,Phd-level courses,2 years ago,,43,335
+195,[D] Reduce the amount of time spent analyzing research papers,6 months ago,,43,407
+101,[D] LPT: Machine Learning University Midterms and Finals solutions are an amazing way to deepen your knowledge of basic Machine Learning Principles.,1 year ago,News,43,531
+981,[R] Breaking 7 / 8 of the ICLR 2018 adversarial example defenses,1 year ago,Genral,44,181
+895,TPOT: A Python tool for automating machine learning,3 years ago,Genral,44,192
+880,[P] Explaining Neural Network Predictions (Open Source),1 year ago,Genral,44,196
+741,"[P] PyTorch 0.3 is out with performance improvements, ONNX/CUDA 9/CUDNN 7 support",1 year ago,,44,203
+499,[P] Voice Style Transfer: Speaking like Kate Winslet,1 year ago,,44,259
+464,[N] OpenAI Five Benchmark,1 year ago,,44,262
+371,[R] Generating 3D animations for characters in videogames in realtime,2 years ago,,44,302
+300,Geoff Hinton's “Neural Networks for Machine Learning” Course Is Being Offered Again,3 years ago,,44,335
+846,[R]DensePose: Dense Human Pose Estimation In The Wild,1 year ago,,44,368
+1153,[R]DensePose: Dense Human Pose Estimation In The Wild,1 year ago,,44,368
+816,[P] Deep Learning Neural Networks Play Path of Exile,1 year ago,,44,378
+1123,[P] Deep Learning Neural Networks Play Path of Exile,1 year ago,,44,378
+184,"Naomi Saphra on Twitter: ""What idiot called it ""deep learning hype"" and not ""backpropaganda""""",3 years ago,,44,416
+151,[R] Why Momentum Really Works,2 years ago,,44,448
+794,[Project] Decoding the Thought Vector,2 years ago,,45,196
+757,[D] So... Pytorch vs Tensorflow: what's the verdict on how they compare? What are their individual strong points?,2 years ago,,45,204
+571,"[N] DeepMind expands to Canada with new research office in Edmonton, Alberta to be led by Richard Sutton",2 years ago,,45,236
+422,[P] LipNet reads lips with 93.4% accuracy.,2 years ago,,45,278
+855,[P] OpenAI: Tensorflow gradient-replacement plugin allowing 10x larger models with 20% speed penalty,1 year ago,,45,354
+1162,[P] OpenAI: Tensorflow gradient-replacement plugin allowing 10x larger models with 20% speed penalty,1 year ago,,45,354
+226,[P] NumPy implementations of various ML models,28 days ago,,45,379
+149,[D] What is the best ML papers you read in 2017 and why?,1 year ago,,45,443
+45,"[N] NumPy receives first ever funding, thanks to Moore Foundation",2 years ago,Discussion,45,711
+1018,[D] Deep Learning Twitter Loop,2 years ago,Genral,46,178
+731,[News] China brings AI to high school curriculum,1 year ago,,46,203
+708,"OpenAI ""Gym"" - Reinforcement Learning Library and Service just revealed & released!",3 years ago,,46,207
+279,[R][UberAI] Measuring the Intrinsic Dimension of Objective Landscapes,1 year ago,,46,352
+1171,[R][UberAI] Measuring the Intrinsic Dimension of Objective Landscapes,1 year ago,,46,353
+843,Colorizing Black and White photos with deep learning,3 years ago,,46,369
+1150,Colorizing Black and White photos with deep learning,3 years ago,,46,369
+989,Fork of Google DeepMind's Atari Code to Play Super Mario Bros.,2 years ago,Genral,47,178
+941,Stacked Approximated Regression Machine: A Simple Deep Learning Approach,2 years ago,Genral,47,184
+900,[N] UK report warns DeepMind Health could gain ‘excessive monopoly power’,1 year ago,Genral,47,193
+634,[R] AlphaFold: Using AI for scientific discovery,8 months ago,,47,228
+524,[Research] New Nature papers by DeepMind: Hybrid Computing using a Neural Network with Dynamic External Memory,2 years ago,,47,250
+515,[R] Neural scene representation and rendering,1 year ago,,47,254
+494,[D] Masters to Industry - Learnings,3 months ago,,47,259
+474,[1807.03341] Troubling Trends in Machine Learning Scholarship,1 year ago,,47,262
+483,"[D] It seems like AlphaGo Zero's biggest successes come from simply removing elements of the first AlphaGo algorithm, not adding new ones. What are the changes that allow the new version to be both simpler and more successful?",1 year ago,,47,265
+214,[R] Multimodal Unsupervised Images-to-Images Translation,1 year ago,,47,390
+134,"[P] Dataset: 480,000 Rotten Tomatoes reviews for NLP. Labeled as fresh/rotten",4 months ago,Research,47,463
+1103,"[P][D] Search Engine for Over 20,000 ML Model Implementations - Looking for Feedback",8 months ago,Genral,48,165
+964,[P] One of my first ML projects - I trained a neural net to 'write' rap songs,2 years ago,Genral,48,181
+990,The Mathematics of Machine Learning,2 years ago,Genral,48,183
+393,[R] Google quietly releases TensorFlow Eager mode,1 year ago,,48,291
+344,The Neural Network Zoo,2 years ago,,48,313
+314,[P] Evolution of the weights in the first hidden layer of an MLP learning mnist.,1 year ago,,48,332
+210,[P] Just released my latest video on Variational Autoencoders!,1 year ago,,48,396
+161,[D] A Cookbook for Machine Learning: a list of ML problem transformations and when to use them,1 year ago,,48,432
+159,"Over the past 7 days, Microsoft Research shared 180+ videos on Youtube. Most involve ML",3 years ago,,48,435
+137,[N] Peter Norvig endorsed The Hundred-Page Machine Learning Book by Andriy Burkov,6 months ago,Discussion,48,461
+25,[R] Few-Shot Unsupervised Images-to-Images Translation,2 months ago,Project,48,904
+1043,"[N] PyTorch 1.0rc1 is out: torch.jit, C++ API, c10d distributed",10 months ago,Genral,49,171
+921,[P] Landing a Rocket from Unfavorable Trajectories (Reinforcement Learning),3 months ago,Genral,49,189
+783,[D] AMA with Vladimir – Kaggle Grand Master,9 months ago,,49,195
+774,[Discussion] How do you maintain motivation and perseverance when you realize your idea has already been published.,1 month ago,,49,198
+763,Self-Paced Coursera Machine Learning now available!,4 years ago,,49,204
+651,[R] Machine Learning’s ‘Amazing’ Ability to Predict Chaos,1 year ago,,49,218
+638,[R] ∂P: A Differentiable Programming System to Bridge Machine Learning and Scientific Computing,12 days ago,,49,226
+540,[P] I made a movie recommendation system in C as my first ML project in University,1 year ago,,49,242
+504,[D] tf.keras Dropout layer is broken,6 months ago,,49,251
+513,400GB data-set of Conversational Audio. (Unlabeled) Cross-post from r/NLP [Project],4 months ago,,49,253
+475,[R] Making Convolutional Networks Shift-Invariant Again,5 days ago,,49,262
+376,[N] Google Offers Cloud-Based TPU Service for Training and Deploying Deep Learning Models,2 years ago,,49,303
+221,[P] The Hundred-Page Machine Learning Book,8 months ago,,49,387
+202,[N] University of Toronto is offering a course on Quantum Machine Learning through edX!,5 months ago,,49,398
+115,[P] Foundations of Machine Learning (A course by Bloomberg),1 year ago,News,49,495
+117,[P] A list of the biggest datasets for machine learning,4 months ago,,49,502
+106,"[D] How a Kalman filter works, in pictures",1 year ago,News,49,520
+70,[N] Mathematics for Machine Learning,1 year ago,Discussion,49,611
+1117,[D] How to deploy a machine learning model on AWS,1 month ago,Genral,51,164
+953,[D] What does a typical ML architecture look like in production?,2 years ago,Genral,51,186
+893,[N] AMD announces their first deep learning hardware,2 years ago,Genral,51,191
+614,[D] Superhuman AI for heads-up no-limit poker: Libratus beats top professionals,1 year ago,,51,228
+526,[R] OpenAI Five,1 year ago,,51,249
+458,[N] PyTorch as of April is installable via `pip install torch`,1 year ago,,51,267
+227,[D] John Carmack's 1-week experience learning neural networks from scratch,1 year ago,,51,379
+185,Foundations of Machine Learning,2 months ago,,51,408
+188,[D] xkcd: Ensemble Model,1 year ago,,51,414
+162,"[N] It's here! ""But what *is* a Neural Network? | Deep learning, Part 1",1 year ago,,51,434
+100,"[P] Using Keras, TensorFlow, CoreML, and ARKit to create marker-less 3D interaction on an iPhone",1 year ago,Project,51,526
+1003,[P] Beta demo: TensorflowJS GUI to visualise and train DL models,9 months ago,Genral,52,176
+988,[N] The team behind Torch7 opensources a pytorch,2 years ago,Genral,52,181
+678,[D] What are ML in production best-practices ? How do you structure and deploy ML project in Production ?,1 year ago,,52,218
+519,[D] People publishing in Nature MI after signing petition not to,6 months ago,,52,250
+359,[N] ICML 2019 Accepted Papers Stats,2 months ago,,52,305
+844,[R] Feature Visualization: How neural networks build up their understanding of images,1 year ago,,52,363
+1151,[R] Feature Visualization: How neural networks build up their understanding of images,1 year ago,,52,363
+837,"[P] Style2PaintsV3 released! Geometric Interactivity, Controllable Shadow Rendering, Better Skin Engine and More.",1 year ago,,52,367
+1144,"[P] Style2PaintsV3 released! Geometric Interactivity, Controllable Shadow Rendering, Better Skin Engine and More.",1 year ago,,52,367
+18,[D] Overview of Machine Learning for newcomers,1 year ago,Project,52,1.1k
+1055,[R] OpenAI: Robust Adversarial Examples,2 years ago,Genral,53,172
+909,[R] Machine Learning applications in the healthcare industry in 2018,1 year ago,Genral,53,192
+724,"[P] Quillbot: A state of the art paraphraser. Permutes input sentences, while maintaining semantic meaning.",1 year ago,,53,208
+664,[D] Worst CVPR 2019 papers,28 days ago,,53,220
+647,[P] styleGAN trained on album covers,2 months ago,,53,221
+529,[R] Weight Agnostic Neural Networks,1 month ago,,53,250
+431,[N] Unknown bot repeatedly beats top Go players online - so far it's undefeated.,2 years ago,,53,281
+866,[D] Alan Turing's “Intelligent Machinery” (1948),1 month ago,,53,353
+1168,[D] Alan Turing's “Intelligent Machinery” (1948),1 month ago,,53,353
+90,"[P] ""Mathematics for Machine Learning"": drafts for all chapters now available",9 months ago,Discussion,53,540
+75,[Project] Realtime Interactive Visualization of Convolutional Neural Networks in Unity (feedback strongly welcomed),1 year ago,Discussion,53,590
+1102,[R] Neural ODEs,1 month ago,Genral,54,169
+1000,[D] What are the best recent ML breakthroughs which still don't have open source implementations?,2 years ago,Genral,54,180
+394,Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches,14 days ago,,54,291
+822,Quadcopter Navigation in the Forest using Deep Neural Networks,3 years ago,,54,368
+1129,Quadcopter Navigation in the Forest using Deep Neural Networks,3 years ago,,54,368
+225,Upvote if you do not want mods to remove untagged posts [discussion],2 years ago,,54,388
+625,[P] Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts + Colaboratory Notebook to use it w/ GPU for free,3 months ago,,55,222
+358,[R] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,2 months ago,,55,306
+290,"[D] Reinforcement learning, fast and slow",3 months ago,,55,343
+850,"Microsoft reaches a historic milestone, using AI to [D] match human performance in translating news from Chinese to English",1 year ago,,55,362
+1157,"Microsoft reaches a historic milestone, using AI to [D] match human performance in translating news from Chinese to English",1 year ago,,55,362
+123,Pictures combined using Convolutional Neural Networks,3 years ago,Project,55,489
+871,[D] Tesla T4 GPUs cost nothing on Google Cloud?,2 months ago,Genral,56,193
+749,[N] Open sourcing Sonnet - a new library for constructing neural networks,2 years ago,,56,205
+685,[P] Prototype of 3D Hand Pose and Gesture Tracking on a Monocular Mobile Device (Keras + Core ML),1 year ago,,56,213
+703,[D] Kullback-Leibler divergence has an enormous number of interpretations and uses (Twitter thread),1 year ago,,56,213
+597,[P] The most comprehensive yet simple and fun RNN/LSTM tutorial on the Internet.,2 years ago,,56,228
+577,Beginner Tutorial: A Neural Network in 11 Lines of Python (or less),4 years ago,,56,236
+853,[R]OpenAI Universe,2 years ago,,56,362
+1160,[R]OpenAI Universe,2 years ago,,56,362
+216,[D] Notes on why deep neural networks are able to generalize well,7 months ago,,56,393
+201,"[R] AdaBound: An optimizer that trains as fast as Adam and as good as SGD (ICLR 2019), with A PyTorch Implementation",5 months ago,,56,396
+181,"[D] Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab",4 months ago,,56,419
+147,[N] O'Reilly's book on Machine Learning with Scikit-Learn and TensorFlow is out. Has anyone tried it yet?,2 years ago,,56,448
+23,"UC Berkeley and Berkeley AI Research published all materials of CS 188: Introduction to Artificial Intelligence, Fall 2018",7 months ago,Discussion,56,949
+7,[P] Landing the Falcon booster with Reinforcement Learning in OpenAI,1 year ago,Discusssion,56,1.3k
+1083,[D] Tensoflow 2.0 vs. Keras,3 months ago,Genral,57,170
+1036,[1810.02054] Gradient Descent Provably Optimizes Over-parameterized Neural Networks,10 months ago,Genral,57,173
+950,"[D] What ML publication hacks are you familiar with, and which annoy you the most?",1 year ago,Genral,57,182
+782,[P] Rock Papers Scissors with Artificial Intelligence,4 months ago,,57,197
+764,[R] Layer rotation: a surprisingly powerful indicator of generalization in deep networks?,1 month ago,,57,202
+725,[P] Made a script to give your Jupyter Notebook a public url instantly :),2 years ago,,57,212
+640,"[N] Fei-Fei Li and Jia Li, new leaders of Google Cloud Machine Learning",2 years ago,,57,227
+477,Neural Net turns NYC into moving painting (Danil Krivoruchko),3 years ago,,57,262
+194,[Research] Neural Point-Based Graphics,8 days ago,,57,408
+152,Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral),3 years ago,,57,441
+139,[D] Valve: Using Deep Learning to Combat Cheating in CSGO,1 year ago,,57,458
+120,"[D] I couldn’t find a good resource for data scientists to learn Linux/shell scripting, so I made a cheat sheet and uploaded three hours of lessons. Enjoy!",3 months ago,News,57,496
+930,[R] StackGAN: Text to Photo-realistic Images Synthesis with Stacked Generative Adversarial Networks,2 years ago,Genral,58,188
+747,[P] Can you think like a word vector? A game for exploring word embeddings,1 year ago,,58,206
+727,Google’s DeepMind AI to use 1 million NHS eye scans to spot diseases earlier,3 years ago,,58,210
+439,"[P] Hey /r/ML, I made a research papers recommender for Machine Learning /Computer Science, and I would love for you to try it out! Uses embedding representation for each papers: you can get recommendations of a combo of several papers, and TSNE maps of the recommendations. Easily to run, Google Colab",10 months ago,,58,274
+286,[P] Ever wondered how to use your trained sklearn/xgboost/lightgbm models in production? We developed a simple library which turns your models into native code (Python/C/Java),5 months ago,,58,347
+779,My python solutions to Andrew Ng's Coursera ML course,3 years ago,,59,205
+485,[R] The Ramanujan Machine: Automatically Generated Conjectures on Fundamental Constants,29 days ago,,59,261
+390,[D] ML Beyond Curve Fitting: Introduction to Causal Inference and Judea Pearl's do-calculus for ML Folks.,1 year ago,,59,297
+327,[P] TensorFlow 1.9 Officially Supports the Raspberry Pi,12 months ago,,59,324
+1170,[P] Portraits of Imaginary people. GANs at 4000x4000 pixel resolution.,2 years ago,,59,346
+278,[P] Portraits of Imaginary people. GANs at 4000x4000 pixel resolution.,2 years ago,,59,352
+894,[News] Deep Learning by Ian Goodfellow & Yoshua Bengio has officially shipped,2 years ago,Genral,61,195
+777,[D] How to build a Portfolio as a Machine Learning/Data Science Engineer in industry ?,1 year ago,,61,201
+743,The Unreasonable Effectiveness of Recurrent Neural Networks,4 years ago,,61,203
+670,[1907.10597] Green AI,7 days ago,,61,214
+650,"[N] mlcourse.ai, open Machine Learning course by OpenDataScience, launches on October 1",10 months ago,,61,217
+631,[N] Waymo's level 4 self-driving cars are on public roads,1 year ago,,61,222
+601,[D] Machine learning productivity hacks,4 months ago,,61,229
+506,[N] There are many platforms to manage your ML models and experiments. We just open sourced ours.,1 month ago,,61,255
+396,[D] Statement on Nature Machine Intelligence,1 year ago,,61,296
+384,[D] OpenAI Five vs Humans currently at 4106–33 (99.2% winrate),3 months ago,,61,300
+24,[P] Simple Tensorflow implementation of StarGAN (CVPR 2018 Oral),1 year ago,Discussion,61,924
+992,[P] Doing a project on machine learning as a career for my geometry class,2 months ago,Genral,62,182
+962,[Discussion] What is your opinion of Probabilistic Programming?,12 months ago,Genral,62,186
+372,BB-8 Images Super-Resolved,3 years ago,,62,304
+335,[D] Why Netflix Never Implemented The Algorithm That Won The Netflix $1 Million Challenge,1 year ago,,62,314
+838,"[P] Machine, a machine learning IDE with instantaneous, visual feedback",2 years ago,,62,361
+1145,"[P] Machine, a machine learning IDE with instantaneous, visual feedback",2 years ago,,62,361
+154,[D] My Neural Network isn't working! What should I do? - A list of common mistakes made by newcomers to neural networks.,1 year ago,,62,445
+140,What are the must read papers for a beginner in the field of Machine Learning and Artificial Intelligence? [Discussion],8 months ago,,62,458
+43,AI Can Detect Alzheimer’s Disease in Brain Scans Six Years Before a Diagnosis,7 months ago,Discussion,62,721
+889,[R] BERT Explained: State of the art language model for a wide variety of NLP tasks,8 months ago,Genral,63,190
+778,[D] Explanation of DeepMind's Overcoming Catastrophic Forgetting,2 years ago,,63,200
+942,[D] How can neural nets deal with cyclical values?,2 months ago,Genral,64,185
+701,[P]Cannot replicate results of deepmind papers,1 year ago,,64,212
+584,Movie written by algorithm turns out to be hilarious and intense,3 years ago,,64,232
+403,DeepMind moves to TensorFlow,3 years ago,,64,287
+190,[R] Study shows that artificial neural networks can be used to drive brain activity.,2 months ago,,64,408
+98,[D] Irresponsible anthropomorphism is killing AI journalism,4 months ago,Project,64,534
+82,[P] Visualisation of a GAN learning to generate a circle,1 year ago,Discussion,64,563
+1104,[P] Vast.ai: docker-based peer GPU rental market (training costs 3x to 5x less),12 months ago,Genral,65,165
+1033,"[D] Quantifying the performance of the TPU, our first machine learning chip",2 years ago,Genral,65,173
+991,Did Google just patent classification?,4 years ago,Genral,65,177
+583,[D] New Theory Cracks Open the Black Box of Deep Learning,1 year ago,,65,231
+586,[N] Google Brain is expanding to Tokyo,1 year ago,,65,233
+541,[D] State of AI report 2019,1 month ago,,65,246
+313,[P] Super SloMo: A CNN to convert any video to a slomo video.,7 months ago,,65,326
+209,[P] StyleGAN on Anime Faces,5 months ago,,65,400
+158,[P] Cool ML slides from Berkeley,2 months ago,,65,441
+130,[R] Human-to-Anime portraits using TwinGAN,1 year ago,Project,65,474
+1026,"[R] Progressive Growing of GANs for Improved Quality, Stability, and Variation (NVIDIA, PDF Link)",1 year ago,Genral,66,175
+677,[D] Lawsuit alleges fabricated results at Pinscreen led by Hao Li,1 year ago,,66,217
+350,[P] Self-driving AI in GTA V - Just using a ConvNet with decent results update,2 years ago,,66,315
+1099,[D] What do we currently know about Generalization? What should we be asking next about it?,1 year ago,Genral,67,168
+1019,"GeForce GTX 1080: 9 Teraflops = 1.3x Titan X. 8GB, 320 GB/s, $599, May 27th.",3 years ago,Genral,67,178
+744,[P] Linear Regression: all you need to know before an interview,2 months ago,,67,209
+603,[D] How common is porn in datasets?,1 year ago,,67,229
+512,[D] An Adversarial Review of “Adversarial Generation of Natural Language”,2 years ago,,67,254
+307,"[R] Lip Reading Sentences in the Wild, ""surpasses the performance of all previous work""",2 years ago,,67,335
+196,[D] Everything that works works because it's Bayesian: An overview of new work on generalization in deep nets,2 years ago,,67,407
+133,[P] How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow & Keras,2 years ago,Discussion,67,470
+109,In-depth Machine Learning Course w/ Python,3 years ago,Project,67,516
+34,Google Brain will be doing an AMA in /r/MachineLearning on August 11,3 years ago,Research,67,773
+737,[D] Are the connections between deep learning and neuroscience still relevant?,4 months ago,,68,205
+627,[P] Coconet: the ML model behind today’s Bach Doodle,4 months ago,,68,229
+511,[R] Watch AI create a 3D model of a person—from just a few seconds of video,1 year ago,,68,252
+681,[Discussion] How are papers validated if they lack the code & weights ?,2 months ago,,69,216
+378,"Is r/MachineLearning ""Deep Learning News""?",3 years ago,,69,297
+719,The NSA’s SKYNET program may be killing thousands of innocent people,3 years ago,,71,207
+646,[D] How difficult will it be for a Reinforcement Learning agent to do the Falcon Heavy booster landing?,1 year ago,,71,220
+391,[D] GANs were invented in 2010?,2 months ago,,71,296
+348,[D] Invitation to join anti AI-hype/misunderstanding effort Skynet Today,3 months ago,,71,312
+217,[D] How do you read math-heavy machine learning papers?,1 year ago,,71,390
+127,[D] Full graduate course in Bayesian ML [videos + slides + homework],1 year ago,Discussion,71,487
+453,"[R] It costs $245,000 to train the XLNet model..(512 TPU v3 chips * 2.5 days * $8 a TPU)",1 month ago,,72,270
+191,[D] How can you do great AI research when you don't have access to google-scale compute? By being weird. — @togelius,1 month ago,,72,409
+68,[D]Someone copied parts of my code and changed the license,1 year ago,News,72,616
+63,[P] Browse State-of-the-Art Papers with Code,6 months ago,Research,72,624
+683,[D] TensorFlow 2.0 is coming,11 months ago,,73,217
+406,[D] Is there a book or resource about machine learning that teaches different algorithms with step by step calculations for simple examples? Like how a mathematics or physics book would.,9 months ago,,73,287
+174,[P] A Global Optimization Algorithm Worth Using,1 year ago,,73,418
+180,"[R] One neuron is more informative than a deep neural network for aftershock pattern forecasting (TL;DR AUC of 2 parameter model = AUC of 13,451 parameter model)",1 month ago,,73,420
+84,great summary of deep learning,3 years ago,Project,73,563
+955,Final match won by AlphaGo!,3 years ago,Genral,74,180
+800,"[D] To bilinguals, have you read any non-english ML papers you'd care to share with us?",4 months ago,,74,196
+165,[p]FINALLY MANAGED to paint on anime sketch WITH REFERENCE!!,1 year ago,,74,434
+984,[N] IBM pitched Watson as a revolution in cancer care. It's nowhere close,1 year ago,Genral,75,181
+873,Someone is posting fake positive comments on their ICLR submission,10 months ago,Genral,75,195
+702,[Discussion] Researchers who write multiple high quality papers a year: how do you do it?,6 months ago,,75,213
+581,[D] Anyone having trouble reading a particular papers ? Post it here and we'll help figure out any parts you are stuck on | Anyone having trouble finding papers on a particular concept ? Post it here and we'll help you find papers on that topic [ROUND 3],10 months ago,,75,236
+847,"Why did Google open-source their core machine learning algorithms? ""It’s simple. Machine learning algorithms aren’t the secret sauce. The data is the secret sauce.""",3 years ago,,75,367
+1154,"Why did Google open-source their core machine learning algorithms? ""It’s simple. Machine learning algorithms aren’t the secret sauce. The data is the secret sauce.""",3 years ago,,75,367
+32,[P] Experimental CNN object recognition project tested out on the office dog,1 year ago,News,75,840
+19,"[P] I trained a RNN to play Super Mario Kart, human-style",1 year ago,News,75,1.0k
+742,[P] Mark Zuckerberg: Building Jarvis,2 years ago,,76,206
+449,[R] Announcing Tensor Comprehensions,1 year ago,,76,272
+538,"[R] ""We also 3D-print our adversarial objects and perform physical experiments to illustrate that such vulnerability exists in the real world"" - Adversarial Objects Against LiDAR",20 days ago,,77,244
+534,"[N] PyTorch v0.4: Windows support, zero-dimensional Tensors, Tensor-Variable merge, CuDNN 7.1 and more",1 year ago,,77,245
+420,[P] Pandas on Ray - Make Pandas faster by replacing one line of your code,1 year ago,,77,285
+867,[N] Ali Rahimi's talk at NIPS(NIPS 2017 Test-of-time award presentation),1 year ago,,78,351
+1169,[N] Ali Rahimi's talk at NIPS(NIPS 2017 Test-of-time award presentation),1 year ago,,78,351
+136,"$93,562,000 awarded by Canadian Gov. for Deep Learning Research at University of Montreal",2 years ago,Project,78,462
+104,[N] Andrew Ng officially launches his $175M AI Fund,1 year ago,Discussion,78,526
+40,[R][UC Berkeley] Everybody Dance Now,11 months ago,Discussion,78,731
+1085,[D]Autopsy of a deep learning papers - quite brutal takedown of recent Uber AI post,1 year ago,Genral,79,168
+935,[D] Why does Microsoft try to force people to use Jupyter Notebooks for ML on Azure? How does your team do ML on Azure?,3 months ago,Genral,79,187
+531,[D] Variational Autoencoders are not autoencoders,6 months ago,,79,247
+361,[N] The Hundred-Page Machine Learning Book is now available on Amazon,6 months ago,,79,309
+831,[N] PyTorch v1.0 stable release,7 months ago,,79,374
+1138,[N] PyTorch v1.0 stable release,7 months ago,,79,374
+6,[P] Generative Ramen,1 year ago,Project,79,1.3k
+463,Why Google's new patent applications are alarming,4 years ago,,81,269
+1081,"One day until the $1m Go matches between AlphaGo and Lee Sedol begins, live on Youtube. Let the hype begin with predictions and the impact if we lose.",3 years ago,Genral,82,169
+1095,[Discussion] The 6 types of data scientist:,2 months ago,Genral,83,167
+877,"[N] NVIDIA 1080ti announced: $700, March 5th, 11GB - Titan replacement",2 years ago,Genral,83,196
+551,"[D] cs231n lecture from Stanford, comparing between TensorFlow 🌊 and PyTorch 🔥",2 years ago,,83,242
+346,"[D] Lawyer: “even if the patent is granted, you can still use it as long as Google does not sue you. It is possible that Google can wait until your company grows up and come back to sue you”",29 days ago,,83,315
+834,[P] Deep Learning For Coders—18 hours of lessons for free,2 years ago,,83,370
+1141,[P] Deep Learning For Coders—18 hours of lessons for free,2 years ago,,83,370
+37,[P] ProGAN trained on r/EarthPorn images,1 year ago,Discussion,83,761
+86,[R] Detecting Sarcasm with Deep Convolutional Neural Networks,1 year ago,News,85,554
+1062,[P] Nudity detection and Censoring in images with Images Classification and Object Detection,4 months ago,Genral,86,173
+776,[D] What is the best way of learning Machine Learning on my own?,1 year ago,,86,201
+856,This xkcd was released less than 2 years ago..,3 years ago,,86,358
+1163,This xkcd was released less than 2 years ago..,3 years ago,,86,358
+178,[D] What I'd like to write in my NeurIPS rebuttal,2 days ago,,86,418
+131,[News] DeepMind’s StarCraft II Agent AlphaStar Will Play Anonymously on Battle.net,22 days ago,Project,86,472
+38,[N] Google is acquiring data science community Kaggle,2 years ago,News,86,764
+10,[P] Real-time Mask RCNN using Facebook Detectron,1 year ago,HD Hlynsson,86,1.2k
+574,"""Defending Against Neural Fake News"" (Check out the generated samples in the appendix- amazing)",2 months ago,,87,232
+292,[D] Bill Gates recently mentioned he would start an AI company that could actually read and understand text. What do sentiment analysis and natural language processing frameworks need to get to this level of intelligence?,1 month ago,,87,342
+728,[D] One simple graphic: Researchers love PyTorch and TensorFlow,6 days ago,,88,211
+573,[R] FreezeOut: Accelerate training by up to 20% by progressively freezing layers. Based on a reddit comment and a subsequent 96 hour science binge.,2 years ago,,88,235
+469,"[N] Facebook releases new deep learning framework, Caffe 2",2 years ago,,88,267
+55,Can I Hug That? I trained a classifier to tell you whether or not what's in an images is huggable.,3 years ago,Discussion,88,650
+13,[R] StarGAN: Unified Generative Adversarial Networks for Multi-Domain Images-to-Images Translation,1 year ago,Research,88,1.1k
+943,[1811.03804] Gradient Descent Finds Global Minima of Deep Neural Networks,8 months ago,Genral,89,184
+617,[R] Video Frame Interpolation via Adaptive Separable Convolution,1 year ago,,89,225
+516,[D] Lyrebird: Copy the voice of anyone,2 years ago,,89,253
+502,Google supercharges machine learning tasks with TPU custom chip,3 years ago,,89,259
+419,[N] PyTorch v0.2.0 is out!!,1 year ago,,89,286
+497,"[R] High quality open peer review of the ""sexuality detector"" papers from 2017. Lots of effort, sound arguments, sensible conclusions.",1 year ago,,91,257
+854,[P] Neural network racing cars around a track,6 months ago,,91,358
+1161,[P] Neural network racing cars around a track,6 months ago,,91,358
+61,"[P]style2paintsII: The Most Accurate, Most Natural, Most Harmonious Anime Sketch Colorization and the Best Anime Style Transfer",1 year ago,Project,91,629
+637,[R] Welcoming the Era of Deep Neuroevolution,1 year ago,,92,222
+467,"Applying Google's ""Inceptionism"" to famous art.",4 years ago,,92,264
+345,"OpenAI - a non-profit AI research company, launched by Sutskever, Musk, Bengio, Zaremba and many others",3 years ago,,92,314
+15,"[R] ""Deep Images Prior"": deep super-resolution, inpainting, denoising without learning on a dataset and pretrained networks",1 year ago,Discussion,92,1.1k
+1007,[D] Controversial Theories in ML/AI?,22 days ago,Genral,93,180
+220,[D] Tensorflow: The Confusing Parts (by Google Brain resident),1 year ago,,94,389
+319,Inceptionism: Going Deeper into Neural Networks,4 years ago,,95,321
+839,"[N] ""#AlphaGo wins game 1! Ke Jie fought bravely and some wonderful moves were played."" - Demis Hassabis",2 years ago,,96,372
+1146,"[N] ""#AlphaGo wins game 1! Ke Jie fought bravely and some wonderful moves were played."" - Demis Hassabis",2 years ago,,96,372
+890,[D] What are some good books to get more theoretical understanding?,1 year ago,Genral,97,195
+572,[D] r/MachineLearning's 2016 Best Papers Award!,2 years ago,,97,236
+832,[P] 1 million AI generated fake faces for download,2 months ago,,97,367
+1139,[P] 1 million AI generated fake faces for download,2 months ago,,97,367
+5,[P] Keras Implementation of Images Outpaint,1 year ago,Project,97,1.4k
+1063,"[R] ""A Replication Study: Machine Learning Models Are Capable of Predicting Sexual Orientation From Facial Images"", Leuner 2019",4 months ago,Genral,98,173
+689,[P] I have a dataset of over 7m pictures that's been manually labeled as nude/suggestive/non-nude over 10 years (X-Post r/computevision),9 months ago,,98,215
+492,[N] Report: Tesla is using behavior cloning (i.e. supervised imitation learning) for Autopilot and full self-driving,6 months ago,,98,259
+58,[D] Suggestion by Salesforce chief data scientist,2 years ago,Discussion,98,639
+1060,[project] Anyone else is playing with reddit comments using ML in cloud? I'm trying to predict assholes judging from their karma from comments.,3 months ago,Genral,99,169
+1017,[D] Does nobody here do research on topics outside of Neural Networks?,2 years ago,Genral,99,177
+489,[N] OpenAI bot was defeated at least 50 times yesterday,1 year ago,,99,258
+472,AMA: Michael I Jordan,4 years ago,,99,266
+682,"[D] ""Everyone building machine learning products has a responsibility to understand that many users have misconceptions about the accuracy and 'objectivity' of ML""",3 months ago,,111,218
+93,TensorFlow Fizzbuzz,3 years ago,Project,111,536
+1071,[N] Google patent for Batch Normalization [Assigned on 2017-10-05],24 days ago,Genral,112,170
+758,"[R] Adversarial Examples Aren't Bugs, They're Features",2 months ago,,112,201
+712,[D] All PhD applications rejected. Work or try again?,4 months ago,,112,210
+17,[P]I made a GPU cluster and free website to help detecting and classifying breast mammogram lesions for general public,1 year ago,Discussion,112,1.1k
+545,[N] OpenAI is currently presenting high skill show matches,12 months ago,,113,243
+761,[D] Debate on TensorFlow 2.0 API,8 months ago,,114,203
+496,Machine learning used to play Super Mario World.,4 years ago,,114,257
+305,"[Discussion] I tried to reproduce results from a CVPR18 papers, here's what I found",10 months ago,,114,333
+198,[P] Implemented BEGAN and saw a cute face at iteration 168k. Haven't seen her since :(,2 years ago,,114,401
+116,[N] Google Colab now comes with free T4 GPUs,3 months ago,News,114,495
+505,"[D] Machine Learning people, What are some things that you struggled learning when you were first starting out?",6 months ago,,116,252
+336,[D] Trump will launch American AI Initiative with an executive order,5 months ago,,116,313
+306,[D] OpenAI Five loses against first professional team at Dota 2 The International,11 months ago,,116,333
+1173,[D] I Don't Like Notebooks,11 months ago,,116,343
+281,[D] I Don't Like Notebooks,11 months ago,,116,349
+569,[D] Have we hit the limits of Deep Reinforcement Learning?,3 months ago,,118,235
+182,The Deep Learning textbook is now complete,3 years ago,,118,419
+67,Images generated by a Convolutional Network,4 years ago,News,118,621
+1080,"IBM's ""True North"" Neural Processors being tested by Livermore National Lab - 1 KHz, 176,000-fold less energy usage than a conventional processor.",3 years ago,Genral,119,170
+566,"[N] OpenAI releasing the 345M model of GPT-2 and sharing the 1.5B model ""with partners working on countermeasures""",3 months ago,,119,239
+207,"[D] 17 interviews (4 phone screens, 13 onsite, 5 different companies), all but two of the interviewes asked this one basic classification question, and I still don't know the answer...",1 month ago,,119,398
+138,"[R] The recent papers out from Google, ""Scalable and accurate deep learning with electronic health records"", has an notable result in the supplement: regularized logistic regression essentially performs just as well as Deep Nets",1 year ago,,119,458
+87,[D] Theano's Dead,1 year ago,Project,121,544
+714,[D] A note on why gradient descent is even needed in the first place,9 months ago,,122,212
+48,[News] DeepMind and Blizzard to release StarCraft II as an AI research environment,2 years ago,Discussion,122,696
+27,[D] What is the best ML papers you read in 2018 and why?,7 months ago,Discussion,122,904
+11,[D] Dedicated to all those researchers in fear of being scooped :),1 year ago,Project,122,1.2k
+507,[N] Google Will Not Renew Project Maven Contract,1 year ago,,123,258
+81,[D] My Machine Learning Research Job Interview Experience,3 months ago,Discussion,123,577
+1,[R] Deep Images Analogy,2 years ago,Research,123,1.7k
+628,[D] OpenAI Not Releasing Fully Trained Model - Is it just an exercise in delaying the inevitable.,5 months ago,,124,221
+456,Scientists plan huge European AI hub to compete with US,1 year ago,,124,270
+440,[Discussion] Agree or disagree: Data science jobs will undergo radical change with automated software in next 5 years.,5 months ago,,124,276
+487,[N] Google Staffers Demand End to Work on Pentagon AI project,1 year ago,,125,259
+865,"[N] Intel ""neuromorphic"" chips can crunch deep learning tasks 1,000 times faster than CPUs",17 days ago,,125,353
+1167,"[N] Intel ""neuromorphic"" chips can crunch deep learning tasks 1,000 times faster than CPUs",17 days ago,,125,353
+508,Panama Papers dataset?,3 years ago,,126,250
+563,"[D] Inside China’s Dystopian Dreams: AI, Shame and Lots of Cameras",1 year ago,,127,241
+189,[D] Andrew Ng on how much silicon valley ML engineers know,2 months ago,,127,413
+836,[D] ML is losing some of its luster for me. How do you like your ML career?,9 months ago,,128,367
+1143,[D] ML is losing some of its luster for me. How do you like your ML career?,9 months ago,,128,367
+872,[D] Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning,4 months ago,Genral,129,196
+912,[D] What are according to you one of the most interesting areas of machine learning being explored right now?,1 year ago,Genral,131,189
+388,[R] OpenAI: Better Language Models and Their Implications,5 months ago,,131,298
+124,"[P] I built Lambda's $12,500 deep learning rig for $6200",4 months ago,Discussion,131,488
+89,Synopsis of top Go professional's analysis of Google's Deepmind's Go AI,3 years ago,Project,131,539
+77,[R] AlphaGo Zero: Learning from scratch | DeepMind,1 year ago,Project,131,594
+665,[D] Google's patent on Dropout just went active today,1 month ago,,132,217
+219,"[R] Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker",21 days ago,,134,390
+166,[D] DeepMind's StarCraft II stream this Thursday at 6 PM GMT,6 months ago,,134,430
+95,[D] Anyone having trouble reading a particular papers? Post it here and we'll help figure out any parts you are stuck on.,1 year ago,Discussion,135,538
+543,[D] Training a single AI model can emit as much carbon as five cars in their lifetimes,1 month ago,,136,243
+157,DeepMind: WaveNet - A Generative Model for Raw Audio,2 years ago,,137,437
+527,[D] Why is TensorFlow so slow?,1 year ago,,138,247
+459,"With results this good, it's no wonder why google wanted to patent classification",4 years ago,,138,272
+36,Google has started a new video series teaching machine learning and I can actually understand it.,3 years ago,Discussion,138,770
+97,[D]Why do people write Bad articles on which they have no clue about?,1 year ago,News,139,531
+44,[D] Misuse of Deep Learning in Nature Journal’s Earthquake Aftershock Papers,1 month ago,Project,139,712
+21,"[D] If all you're doing is copy/pasting someone else's blog/tutorial/stackoverflow and making minor adjustments, please do not create another frigging Medium article. It's just worthless noise.",1 month ago,Google Brain,139,1.0k
+454,[D] Is machine learning's killer app totalitarian surveillance and oppression?,27 days ago,,141,266
+26,[D] What is happening in this subreddit?,1 year ago,Research,141,906
+579,"AMA: We are Noam Brown and Tuomas Sandholm, creators of the Carnegie Mellon / Facebook multiplayer poker bot Pluribus. We're also joined by a few of the pros Pluribus played against. Ask us anything!",15 days ago,,142,232
+486,[D] I'm tired of reading results-oriented papers. What are good papers or sources of papers more focused on the emerging theory of machine learning?,7 months ago,,142,263
+0,[P] Realtime multihand pose estimation demo,1 year ago,Project,142,1.7k
+215,[N] 'We can't compete': why universities are losing their best AI scientists,1 year ago,,143,389
+47,Google Tensorflow released,3 years ago,Discussion,145,713
+328,[D] Is training a NN to mimic a closed-source library legal ?,2 years ago,,146,322
+643,"[D] Rejected by all PhD programs 3 different seasons, stay in current lab or apply again later?",5 months ago,,149,223
+293,[P] Can you tell if these faces are real or GAN-generated?,8 months ago,,151,341
+532,"[R] ""I recently learned via @DavidDuvenaud's interview on @TlkngMchns that the de facto bar for admission into machine learning grad school at @UofT is a papers at a top conference like NIPS or ICML.""",10 months ago,,152,248
+580,[D] Undergraduate student feeling completely overwhelmed,5 months ago,,153,235
+113,[D] What is OpenAI? I don't know anymore.,9 days ago,Project,153,508
+852,[D] Reverse-engineering a massive neural network,9 months ago,,154,364
+1159,[D] Reverse-engineering a massive neural network,9 months ago,,154,364
+360,[N] OpenAI LP,4 months ago,,155,308
+168,[N] Andrew Ng resigning from Baidu,2 years ago,,155,429
+57,[Discussion] Should I release my MNIST model or keep it closed source fearing malicious use?,5 months ago,News,155,645
+968,[D] What developments do you expect to see in machine learning in the upcoming 5 years?,9 months ago,Genral,157,182
+102,"[D] Those who hire/interview for machine learning positions, what can self taught people include in their projects that would convince you they would be able to fit in and keep up with those with a more standard background ?",1 month ago,News,158,529
+907,[D] Why do machine learning papers have such terrible math (or is it just me)?,10 months ago,Genral,162,194
+203,[D] MIT 6.S099: Artificial General Intelligence,1 year ago,,163,399
+357,[N] Elon Musk on Twitter : Tesla Autopilot vision neural net now working well. Just need to get a lot of road time to validate in a wide range of environments.,2 years ago,,164,315
+828,"[D] TensorFlow is dead, long live TensorFlow!",4 months ago,,164,370
+1135,"[D] TensorFlow is dead, long live TensorFlow!",4 months ago,,164,370
+51,"[N] Hinton, LeCun, Bengio receive ACM Turing Award",4 months ago,Project,166,676
+85,[N] Apple hires Ian Goodfellow,3 months ago,Project,176,553
+598,[N] Andrew Ng: AI Winter Isn’t Coming,2 years ago,,178,228
+621,[N] OpenAI Five Benchmark: Results,12 months ago,,182,226
+790,[N] Google AI Researcher Accused of Sexual Harassment,1 year ago,,187,197
+71,"[D] IEEE bans Huawei employees from reviewing or handling papers for IEEE journals, some people resign from IEEE editorial board as a result",2 months ago,Project,191,600
+296,AlphaGo is 3-0,3 years ago,,192,336
+1090,[D] Elon Musk: Artificial Intelligence Is the Greatest Risk We Face as a Civilization,2 years ago,Genral,194,169
+52,"[D] Francois Chollet: [...] Facebook can simultaneously measure everything about us, and control the information we consume. When you have access to both perception and action, you’re looking at an AI problem. You can start establishing an optimization loop for human behavior. A RL loop.",1 year ago,Discussion,198,657
+16,[D] Has anyone noticed a lot of ML research into facial recognition of Uyghur people lately?,2 months ago,Project,214,1.1k
+42,[D] Confession as an AI researcher; seeking advice,1 year ago,News,215,733
+110,Andrej Karpathy forced to take down Stanford CS231n videos,3 years ago,News,222,516
+66,[Discussion] OpenAI should now change their name to ClosedAI,5 months ago,Project,225,618
+745,[D] Salaries for ML,1 year ago,,244,205
+41,[News] New NVIDIA EULA prohibits Deep Learning on GeForce GPUs in data centers.,1 year ago,News,246,730
+83,[N] OpenAI bot beat best Dota 2 players in 1v1 at The International 2017,1 year ago,Discussion,253,568
+33,"[R] Holy shit you guys, the new google assistant is incredible.",1 year ago,Discussion,255,812
+3,[D] A Super Harsh Guide to Machine Learning,2 years ago,Discussion,255,1.5k
+827,AMA Geoffrey Hinton,4 years ago,,257,369
+1134,AMA Geoffrey Hinton,4 years ago,,257,369
+452,AMA: Nando de Freitas,3 years ago,,259,270
+141,AMA Andrew Ng and Adam Coates,4 years ago,,264,458
+94,The computer that mastered Go. Nature video on deepmind's Alpha GO.,3 years ago,Discussion,266,536
+74,AlphaGO WINS!,3 years ago,Discussion,272,588
+172,[N] DeepMind's AlphaStar wins 5-0 against LiquidTLO on StarCraft II,6 months ago,,274,426
+155,[N] Self-driving Uber kills Arizona woman in first fatal crash involving pedestrian,1 year ago,,279,438
+820,AMA: Yann LeCun,5 years ago,,282,379
+1127,AMA: Yann LeCun,5 years ago,,282,379
+222,AMA: the OpenAI Research Team,3 years ago,,288,389
+35,[D] An analysis on how AlphaStar's superhuman speed is a band-aid fix for the limitations of imitation learning.,6 months ago,News,291,773
+9,"[D] If you had to show one papers to someone to show that machine learning is beautiful, what would you choose? (assuming they're equipped to understand it)",1 year ago,Discussion,294,1.3k
+121,Alpha Go wins match 2,3 years ago,Project,329,493
+1176,[R] How to make a racist AI without really trying,2 years ago,,332,347
+54,"[D] Statistics, we have a problem.",1 year ago,Discussion,449,661
+200,AMA: We are David Silver and Julian Schrittwieser from DeepMind’s AlphaGo team. Ask us anything.,1 year ago,,489,400
+2,[D] Why can't you guys comment your fucking code?,2 years ago,Discussion,489,1.6k
+22,We are the Google Brain team. We’d love to answer your questions (again),1 year ago,Project,539,1.0k
+8,AMA: We are the Google Brain team. We'd love to answer your questions about machine learning.,2 years ago,Google Brain,793,1.3k
+308,[D] I'm using OpenAI's GPT-2 to generate text. Give me prompts to try!,4 months ago,,798,332
